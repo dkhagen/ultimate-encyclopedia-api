@@ -1,5 +1,5 @@
 [
-	"fighter": {
+	{"fighter": {
 		"name":"Mario",
 		"series":"Super Mario Bros.",
 		"image":"https://media.wired.com/photos/5926c126af95806129f50868/master/w_2560%2Cc_limit/SuperMarioRunTA.jpg",
@@ -98,8 +98,8 @@
 				}
 			]
 		}
-	},
-	"fighter": {
+	}},
+	{"fighter": {
 		"name":"Link",
 		"series":"The Legend of Zelda",
 		"image":"https://static1.srcdn.com/wordpress/wp-content/uploads/2021/05/The-Legend-of-Zelda-Breath-of-the-Wild-Who-Are-The-Zonai.jpg",
@@ -198,8 +198,8 @@
 				}
 			]
 		}
-	},
-	"fighter": {
+	}},
+	{"fighter": {
 		"name":"Samus",
 		"series":"Metroid",
 		"image":"https://static.wikia.nocookie.net/smashtopia/images/5/5e/Samus-1.png/revision/latest/scale-to-width-down/1000?cb=20201222203410",
@@ -298,5 +298,5 @@
 				}
 			]
 		}
-	}
+	}}
 ]
