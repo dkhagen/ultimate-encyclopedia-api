@@ -1,4 +1,4 @@
-{
+[
 	"fighter": {
 		"name":"Mario",
 		"series":"Super Mario Bros.",
@@ -299,4 +299,4 @@
 			]
 		}
 	}
-}
+]
