@@ -19,452 +19,450 @@
     ],
   "moves":
     [
-  {
-    "fighter":"Mario",
-    "input":"Neutral attack",
-    "name":"",
-    "damage":"2.2%",
-    "description":"The Punch + Punch + Kick combo from Super Mario 64: two punches followed by a jumping kick. The first and second hits can lock, and the general speed of the move makes it good as a grounded combo breaker or quick punish tool, as the first hit comes out on frame 2.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/0/07/MarioJab1SSBU.gif/500px-MarioJab1SSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Forward tilt",
-    "name":"",
-    "damage":"7%",
-    "description":"A wheel kick. It can be angled. Very quick and good for getting opponents off of Mario due to its high base knockback, and angling it down enables it to hit ledge hangs, but it's weak and situational, as it cannot KO until 200% or even lock.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/5/51/MarioFTiltSSBU.gif/500px-MarioFTiltSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Up tilt",
-    "name":"",
-    "damage":"5.5%",
-    "description":"A spinning jumping uppercut. Effective for comboing into itself at low percents, and into aerial attacks from mid to high percents; however, the former combo can be escaped with the proper combination of DI and SDI, and can be punished on hit at very low percents. Unlike in SSB4, the move's altered animation results in the hitbox being positioned fairly high to the ground on the first frame it is active, creating a blindspot and making it fairly difficult or even impossible to hit shorter or crouching characters with the move. It appears to be based on the second hit of the Mega Glove's combo from Super Mario RPG: Legend of the Seven Stars.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/9/91/MarioUTiltSSBU.gif/500px-MarioUTiltSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Down tilt",
-    "name":"",
-    "damage":"5% (foot), 7% (leg)",
-    "description":"A leg sweep. A reliable combo starter that works at a wider range of percents than up tilt, at the cost of being less consistent due to its different hitboxes, and unable to combo into itself as effectively. It can also hit ledge hangs and combo off from ledge as well.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/4/4d/MarioDTiltSSBU.gif/500px-MarioDTiltSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Dash attack",
-    "name":"",
-    "damage":"8% (clean), 6% (late)",
-    "description":"A baseball slide. Has a diagonal knockback angle, making its lingering hitbox useful for 2-framing certain opponents and punishing spot dodges. The new animation is more unfavorable in terms of hitbox placements. Very similar to the Slide Kick from Super Mario 64, and also similar to Mario's running turn animation in New Super Mario Bros.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/8/8e/MarioDashAttackSSBU.gif/500px-MarioDashAttackSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Forward smash",
-    "name":"",
-    "damage":"17.8% (fire), 14.7% (arm)",
-    "description":"Steps back and does a palm thrust that produces a small explosion. Though it is Mario's slowest ground attack, coming out on frame 15, it is among the quicker forward smashes and considered among the best in the game for several reasons: It is Mario's most powerful KO move when sweet spotted, KOing as low as 65% by the ledge, the fireball itself is disjointed, can be angled downwards or upwards to hit ledge hangs, and the start-up animation has Mario pull back his hurtbox deceptively far, inadvertently allowing him to avoid several attacks. However, the sweet spot is out prioritized by the sour spot.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/c/ca/MarioFSmashSSBU.gif/500px-MarioFSmashSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Up smash",
-    "name":"Lead Headbutt",
-    "damage":"14%",
-    "description":"An upward arcing headbutt. One of Mario's most reliable KO options. Its quick startup at frame 9 makes it a useful out of shield option, as well as being difficult to react to if the opponent is within its range. His head is intangible while its hitboxes are active, giving it pseudo-disjointed range. Its hitboxes reach behind Mario a good distance but do not reach as far in front of him, thus having trouble hitting short or crouching opponents in front of him. It has very fast interruptibility for its strength, at frame 40, and its damage output is also just enough to make it difficult for most characters to punish out of shield.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/2/2a/MarioUSmashSSBU.gif/500px-MarioUSmashSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Down smash",
-    "name":"",
-    "damage":"10% (front), 12% (back)",
-    "description":"The Sweep Kick from Super Mario 64. Mario does a breakdance kick that hits both sides. Mario's fastest smash attack, coming out as fast as all his tilts, and both hits semi-spike opponents, though the frontal hit is rather weak in comparison to the back hit. Also capable of hitting ledge hangs. The animation in Ultimate more closely resembles Mario's breakdance from Dance Dance Revolution: Mario Mix.",
-    "hitbox":"https://ssb.wiki.gallery/images/3/36/MarioDSmashSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Neutral aerial",
-    "name":"",
-    "damage":"8% (clean), 5% (late)",
-    "description":"A flying kick. As a sex kick, it loses its average power after the first frames. It is useful for breaking out of combos due to its very fast startup (frame 3), and as a versatile horizontal combo extender, as well as for locking opponents. Autocancels in a short hop. Can combo into a tilt attack, up aerial, or grab at low percents if landing on the ground shortly after the hit, as well as boasting numerous KO confirms off the late hit at high percents. Very similar to the Jump Kick from Super Mario 64.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/4/40/MarioNAirSSBU.gif/500px-MarioNAirSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Forward aerial",
-    "name":"Meteor Knuckle",
-    "damage":"12% (early), 14% (clean), 10% (late)",
-    "description":"Rears back his fist and then throws an overhand. When hit clean, it is a meteor smash with enough knockback to KO under 45% offstage and has deceptively high combo potential. It has the slowest startup of his standard moveset (frame 16), high ending lag, and is Mario's only aerial that doesn't autocancel in a short hop. Other than lacking combo potential, the early and late hits are too weak to KO reliably.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/1/1d/MarioFAirSSBU.gif/500px-MarioFAirSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Back aerial",
-    "name":"",
-    "damage":"10.5% (clean), 7% (late)",
-    "description":"A dropkick behind Mario. Has fast startup with low ending and landing lag, and more range than most of Mario's other aerials, making it an effective spacing tool and horizontal combo extender at low percents, as well as having the ability to pseudo Wall of Pain off stage. Also capable of killing at higher percents, and can be used twice in a short hop, or with neutral, up and down airs.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/1/15/MarioBAirSSBU.gif/500px-MarioBAirSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Up aerial",
-    "name":"",
-    "damage":"7%",
-    "description":"A bicycle kick. Has extremely fast startup (frame 4), consistent strength throughout the move and very low ending and landing lag, making it one of Mario's most versatile combo starters and extenders in his moveset. Can combo into itself easily until higher percents, and can kill off the top at high percents.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/3/3a/MarioUAirSSBU.gif/500px-MarioUAirSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Down aerial",
-    "name":"Mario Tornado",
-    "damage":"1.4% (hits 1-5), 5.5% (hit 6), 2% (landing)",
-    "description":"Rapidly spins around, trapping opponents and damaging them with a series of discus clotheslines and spinning backfists before assuming a spread-eagle position to launch them. Possesses a rather low startup and ending lag, making the move reasonably safe to use barring its short range and lack of disjointed hitboxes. It also has a landing hitbox that combos reliably into tilts or a grab. However, opponents will occasionally break out of the move before the final hit, especially when Mario is moving quickly through the air. Useful as a combo finisher, combo breaker, and general damage-racking option, and can KO opponents deceptively well at high percentages. Resembles the Spin Jump, a technique that first appeared in Super Mario World.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/0/06/MarioDAirSSBU.gif/500px-MarioDAirSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Grab",
-    "name":"",
-    "damage":"\u2014",
-    "description":"Reaches out. Mario's overall grab range is average, but tied for the fastest in the game."
-  },
-  {
-    "fighter":"Mario",
-    "input":"Pummel",
-    "name":"",
-    "damage":"1.3%",
-    "description":"Headbutts the opponent.",
-    "hitbox":"https://ssb.wiki.gallery/images/d/de/MarioPummelSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Forward throw",
-    "name":"",
-    "damage":"8%",
-    "description":"Spins the opponent around once and throws them forward. Can be followed up with dash attack at lower percents, or be used to set up tech situations and mixups, or edge guards. It can kill at very high percents at the ledge.",
-    "hitbox":"https://ssb.wiki.gallery/images/6/69/MarioFThrowSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Back throw",
-    "name":"Airplane Swing",
-    "damage":"11% (throw), 8% (collateral)",
-    "description":"A giant swing, a  throw used on floored opponents in wrestling. Mario grabs the opponent by the feet, making them fall to the ground and spins three times while holding them by the legs before throwing them backward. Can KO even the heaviest of characters reliably at around 160% near the edge without the need of rage, but can KO middleweights as early as 120% if they fail to DI. It also has solid use in matches with more than one player, as the collateral hit has a large range and high knockback. Due to its slow speed, it is easy to DI, causing it to KO only above 160%. It is based on the throw that he uses against Bowser in Super Mario 64.",
-    "hitbox":"https://ssb.wiki.gallery/images/c/c8/MarioBThrowSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Up throw",
-    "name":"",
-    "damage":"7%",
-    "description":"Holds the opponent by the chest and then tosses them directly overhead with both hands. An effective combo throw at low to medium percentages, comboing into all aerials except forward air. Very similar animation to the Upward Cap Throw from Super Mario Odyssey.",
-    "hitbox":"https://ssb.wiki.gallery/images/b/b7/MarioUThrowSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Down throw",
-    "name":"",
-    "damage":"5%",
-    "description":"Jumps upwards while holding the opponent and then performs a body slam, slamming them to the ground with one arm. It can be followed up with several options, including but not limited to up tilt on certain characters at varying percents, Super Jump Punch, neutral attack, and up aerial at mid percents on most characters. Effective for starting ladder combos on platform stages.",
-    "hitbox":"https://ssb.wiki.gallery/images/0/0c/MarioDThrowSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Floor attack (front)",
-    "name":"",
-    "damage":"7%",
-    "description":"Punches behind himself and then in front of himself while getting up."
-  },
-  {
-    "fighter":"Mario",
-    "input":"Floor attack (back)",
-    "name":"",
-    "damage":"7%",
-    "description":"Performs a modified version of the Sweep Kick from Super Mario 64 before getting up."
-  },
-  {
-    "fighter":"Mario",
-    "input":"Floor attack (trip)",
-    "name":"",
-    "damage":"5%",
-    "description":"Performs a sidekick behind himself and then in front of himself while getting up."
-  },
-  {
-    "fighter":"Mario",
-    "input":"Edge attack",
-    "name":"",
-    "damage":"9%",
-    "description":"Performs a dropkick while climbing up."
-  },
-  {
-    "fighter":"Mario",
-    "input":"Neutral special",
-    "name":"Fireball",
-    "damage":"5% (early), 4% (late)",
-    "description":"Throws a Fireball. The fireball bounces along the ground several times before disappearing. Despite its low damage, it is good for controlling space when performed in the air because Mario retains full aerial mobility throughout the move. Because the fireball is subject to gravity, it can be used to cover Mario while recovering high, and can combo into quick attacks if Mario is close enough. A reference to the fireballs he fires when he obtains the Fire Flower, which first appeared in Super Mario Bros.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/3/31/MarioNSpecialSSBU.png/500px-MarioNSpecialSSBU.png"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Side special",
-    "name":"Cape",
-    "damage":"7%, 1.5x times the reflected projectile",
-    "description":"Dons a Cape around his neck and waves it in front of himself. It reflects projectiles and reverses enemies, as well as reversing the opponent's controls for a brief instant. In the air, it causes a Fall Break by stalling Mario in the air, allowing for timing mixups in juggle and recovery situations. Useful for gimping opponents who are trying to recover.",
-    "hitbox":"https://ssb.wiki.gallery/images/4/47/MarioCapeSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Up special",
-    "name":"Super Jump Punch",
-    "damage":"5% (hit 1), 0.6% (hits 2-6), 3% (hit 7)",
-    "description":"A jumping uppercut that produces Star Coins or Metro Kingdom regional coins on contact. Mario's only recovery move, but it leaves him helpless. Its extremely fast startup (frame 3) and intangibility frames on startup make it useful as an out of shield option. Can KO near the upper blast line, making it a good combo finisher out of a ladder. Can be angled to change the direction it travels in.",
-    "hitbox":"https://ssb.wiki.gallery/images/e/ea/MarioSuperJumpPunchSSBU.gif"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Down special",
-    "name":"F.L.U.D.D.",
-    "damage":"0%",
-    "description":"Wields F.L.U.D.D. and charges up water to launch a stream at the opponent. The charge time is rather fast, and it can be charge canceled and stored for later. The water pushes opponents but does not damage them. Mario can change the angle of the stream upwards or downwards. Useful for disrupting an approach and creating space, which can help alleviate pressure and potentially put his opponent in a vulnerable position. It also slightly pushes Mario backward if charged enough. It can also be used as an edgeguarding tool.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/4/40/MarioDSpecialSSBU.png/500px-MarioDSpecialSSBU.png"
-  },
-  {
-    "fighter":"Mario",
-    "input":"Final Smash",
-    "name":"Mario Finale",
-    "damage":"2% (early), 2.5% (clean), 3% (late)",
-    "description":"Rears his arms back before thrusting them forward to generate and launch two gigantic Fireballs, which trap and repeatedly damage any opponents in their path. Deals almost no knockback, but has decent damage and can carry opponents off the side of the stage when near the ledge.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/f/fb/MarioMarioFinaleSSBU.gif/500px-MarioMarioFinaleSSBU.gif"
-  }
-],
-[
-  {
-    "fighter":"Samus",
-    "input":"Neutral attack",
-    "name":"Straight and Cannon Hammer",
-    "damage":"3%",
-    "description":"A left-handed jab followed by a forearm club with the Arm Cannon. Despite dealing above-average damage for a neutral attack, it is poor overall, as opponents can usually act out before the second hit connects by shielding or using a fast attack, while the second hit may not even connect at high percentages. Depending on the opponent's weight, it is safe and a true combo at high percents, but only if the first hit connects relatively close to the arm and not at the fist. The second hit does have KO potential at very high percentages, however, and the first hit is very fast, coming out on frame 3, making it a decent interrupt tool.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/a/a0/SamusJab1SSBU.gif/500px-SamusJab1SSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Forward tilt",
-    "name":"",
-    "damage":"11% (foot), 10% (leg), 9% (body)",
-    "description":"A reverse roundhouse kick. Deals more damage and knockback at her foot, while her leg deals less damage and knockback. Can be angled, which causes it to deal more damage, but may cause it to miss shorter characters on the ground if angled up. The foot sweetspot deals rather potent knockback for a tilt attack, which can KO at the edge at around 125%. At varying percentages, depending on which part of the move is landed, it can lead into a guaranteed Charge Shot, as regardless of teching, Charge Shot can catch the opponent's option in time if they are knocked down.",
-    "hitbox":"https://ssb.wiki.gallery/images/a/a4/SamusFTiltSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Up tilt",
-    "name":"",
-    "damage":"13% (grounded), 12% (aerial)",
-    "description":"An axe kick, which is identical to Captain Falcon's up tilt. It behaves unusually as it meteor smashes grounded opponents, but launches aerial opponents at a horizontal angle. This allows it to set up combos against the former at a wide range of percents, while still being a reliable edgeguard tool, due to its wide coverage and powerful enough knockback to KO aerial opponents at around 95% at the edge. At high percents, the grounded meteor can also set up KO confirms into a fully charged Charge Shot. However, the move has noticeable startup, due to coming out on frame 15, making it Samus's slowest normal attack on the ground.",
-    "hitbox":"https://ssb.wiki.gallery/images/f/f6/SamusUTiltSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Down tilt",
-    "name":"",
-    "damage":"12%",
-    "description":"Kneels and quickly thrusts her Arm Cannon downward to fire a small, fiery blast. It is very fast, due to coming out on frame 6, and deals respectable damage and knockback for a tilt attack, KOing at around 160% off the top blast line. It is useful as a close range anti-pressure option on opponents in front of Samus, or as a punishment option. However, its very high ending lag leaves it easy to punish if shielded or missed.",
-    "hitbox":"https://ssb.wiki.gallery/images/1/11/SamusDTiltSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Dash attack",
-    "name":"",
-    "damage":"10% (clean), 6% (late)",
-    "description":"A shoulder tackle with a white aura around Samus, similar to the Shinespark technique from her home series. Deals more damage and knockback at the start and the middle of the attack, KOing opponents at around 150% from the center of Final Destination, and earlier near edges. However, the late hit is noticeably weaker, and the move lacks combo potential, especially compared to its previous appearance. This move originates from the Shinespark technique, first becoming available in Super Metroid.",
-    "hitbox":"https://ssb.wiki.gallery/images/2/26/SamusDashAttackSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Forward smash",
-    "name":"",
-    "damage":"13% (Arm Cannon), 15% (blast)",
-    "description":"Quickly thrusts her Arm Cannon forward to fire a small, fiery blast. Functions similarly to Mario's forward smash, with the blast being the most powerful part of the move. It is one of the fastest forward smashes in the game, coming out on frame 10, while the blast has the highest knockback out of her smash attacks, KOing at around 100% from center stage. However, it is rather weak otherwise, with the Arm Cannon KOing at around 135% and the sourspot taking priority over the sweetspot. It can be angled like her forward tilt, with the upward angle dealing more damage and knockback, though it can typically miss as a result; conversely, the downward angle can hit ledge hanging opponents, but deals slightly less damage and knockback.",
-    "hitbox":"https://ssb.wiki.gallery/images/e/e9/SamusFSmashSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Up smash",
-    "name":"Cover Fire",
-    "damage":"3% (hits 1-4), 6% (hit 5)",
-    "description":"Fires five fiery blasts in an overhead arcing motion. True to its name, this move works best as an anti-air attack, as its multiple hits give a good amount of aerial protection. Conversely, it is unable to hit grounded opponents unless they are close enough to Samus. It is also her most damaging smash attack, dealing 18% total uncharged. However, due to its hits being spread above Samus, it can fail to fully connect if the opponent is hit from too far. If all 5 hits connect, it can KO middleweights at around 100% from ground level.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/4/45/SamusUSmashSSBU.gif/500px-SamusUSmashSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Down smash",
-    "name":"",
-    "damage":"10% (front), 12% (back)",
-    "description":"A legsweep. A semi-spike with decent speed and high base knockback, allowing it to set up edgeguards and punish rolls effectively. The front hit can KO middleweights center stage around 150%, with the back hit KOing even earlier at around 135%.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/6/63/SamusDSmashSSBU.gif/500px-SamusDSmashSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Neutral aerial",
-    "name":"",
-    "damage":"10% (hit 1), 9% (hit 2, clean), 8% (hit 2, late)",
-    "description":"A spinning roundhouse kick, similar to the aerial version of the Counter Attack from Metroid: Other M. Comes out in frame 8. Hits on both sides quickly and can autocancel with a short hop fast fall. Its front hit and sweetspotted back hit also deal powerful knockback, which makes it a viable KOing option offstage or near the edge, as well as a decent combo finisher and one of the strongest aerials of its type.",
-    "hitbox":"https://ssb.wiki.gallery/images/4/4d/SamusNAirSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Forward aerial",
-    "name":"",
-    "damage":"3% (hit 1), 1.6% (hits 2-4), 5% (hit 5)",
-    "description":"Fires five fiery blasts in a slow, downward arcing motion. Fast, coming out on frame 6, thus having the second lowest startup lag of Samus's aerials. The first four hits drag opponents into the rest of the move using the autolink angle, with the last hit carrying the entire attack's knockback. Samus' main aerial move for both combos and protection. Extremely useful as an edge get-up option or against air dodges due to its multiple hits, and using the move immediately after a short hop can hit opponents with the last hit before Samus lands again. It's her only aerial that does not autocancels In a short hop. It can KO middleweights at around 155% from center-stage if all hits connect.",
-    "hitbox":"https://ssb.wiki.gallery/images/2/2b/SamusFAirSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Back aerial",
-    "name":"",
-    "damage":"14% (clean foot), 12% (clean leg), 9% (late)",
-    "description":"A back kick. It is fast and deals powerful knockback when sweetspotted, which makes it an excellent KOing option, especially when edgeguarding. When sweetspotted, it is among the strongest back aerials in the game, KOing Mario at 100% from center stage.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/4/46/SamusBAirSSBU.gif/500px-SamusBAirSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Up aerial",
-    "name":"",
-    "damage":"3% (hit 1), 1.3% (hits 2-5), 4% (hit 5)",
-    "description":"A diagonal corkscrew flying kick, hitting multiple times. It is her fastest aerial, due to coming out on frame 5. Grounded opponents can be hit by the last hitbox if Samus lands while starting the move in the air, although it is difficult to do so, and risky due to the move's high landing lag. It can be used as a follow-up after a dash attack, grounded up tilt, down aerial, or down throw, all of which can be followed up with another up aerial and/or can be finished off with a Screw Attack. On stages with platforms, it even has potential for a zero-to-death when using a platform to extend the combo. Can KO if used high enough and close to the blast line.",
-    "hitbox":"https://ssb.wiki.gallery/images/8/8e/SamusUAirSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Down aerial",
-    "name":"",
-    "damage":"10% (early, late), 14% (clean)",
-    "description":"Swings her Arm Cannon in a downward arcing motion. Hitting with the move's trail meteor smashes opponents, while the edges of the move at the very start and end deal decent horizontal knockback. Autocancels from a short hop, and due to its relatively low ending lag, the meteor smash is excellent for starting combos on grounded opponents, much like her up tilt.",
-    "hitbox":"https://ssb.wiki.gallery/images/6/63/SamusDAirSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Grab aerial",
-    "name":"Grapple Beam",
-    "damage":"2.5% (hit 1), 4% (hit 2)",
-    "description":"Fires the Grapple Beam. A useful spacing option due to having only 8 frames of landing lag. It autocancels from a full hop and has impressive range, being the longest grab aerial in game. In addition to its recovery and spacing capabilities, it is good at setting up combos at close range upon landing, due to its low landing lag. Unlike in previous games, however, hitting an opponents causes the Grapple Beam to retract earlier, while not reducing the move's ending lag.",
-    "hitbox":"https://ssb.wiki.gallery/images/1/1b/SamusZAirSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Grab",
-    "name":"Grapple Beam",
-    "damage":"\u2014",
-    "description":"Fires the Grapple Beam. It has impressive range and is the longest tether grab in the game. However, it is tied with her Zero Suited form's grab as the second slowest in terms of ending lag, making it very punishable if missed."
-  },
-  {
-    "fighter":"Samus",
-    "input":"Pummel",
-    "name":"",
-    "damage":"1.3%",
-    "description":"A palm strike. Has moderate damage and speed relative to other pummels.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/4/4a/SamusPummelSSBU.gif/500px-SamusPummelSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Forward throw",
-    "name":"",
-    "damage":"10%",
-    "description":"Twirls the opponent overhead, then flings them forward. Although its knockback has been increased, it remains too weak for KOing at realistic percents, unless Samus has rage and is at the edge of the stage.",
-    "hitbox":"https://ssb.wiki.gallery/images/3/3a/SamusFThrowSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Back throw",
-    "name":"",
-    "damage":"10%",
-    "description":"Swings the opponent behind herself. Slightly more effective for KOing and setting up edgeguards than her forward throw, due to its lower launch angle.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/c/c4/SamusBThrowSSBU.gif/500px-SamusBThrowSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Up throw",
-    "name":"",
-    "damage":"5% (hit 1), 7% (throw)",
-    "description":"Puts the opponent above herself and blasts them upward with her Arm Cannon. Samus's most damaging and strongest throw, possessing enough knockback to KO middleweights around 150% from ground level and without rage. At low percents, it can also combo into an up aerial against large characters, as well as Screw Attack against most characters, though the latter will only connect its hits reliably on a few characters.",
-    "hitbox":"https://ssb.wiki.gallery/images/c/cb/SamusUThrowSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Down throw",
-    "name":"",
-    "damage":"8%",
-    "description":"Swings the opponent high above her head, then slams them onto the ground. A reliable combo starter, with its followups including a dash attack, small step forward smash or dashing up smash at low percents, a neutral, back or up aerial up to mid percents, and a forward aerial up to high percents.",
-    "hitbox":"https://ssb.wiki.gallery/images/9/94/SamusDThrowSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Floor attack (front)",
-    "name":"",
-    "damage":"7%",
-    "description":"Swings her Arm Cannon in front of herself and then fires a blast behind herself."
-  },
-  {
-    "fighter":"Samus",
-    "input":"Floor attack (back)",
-    "name":"",
-    "damage":"7%",
-    "description":"Performs a low-level roundhouse kick."
-  },
-  {
-    "fighter":"Samus",
-    "input":"Floor attack (trip)",
-    "name":"",
-    "damage":"5%",
-    "description":"Performs a shin kick in front of herself and then a back kick behind herself."
-  },
-  {
-    "fighter":"Samus",
-    "input":"Edge attack",
-    "name":"",
-    "damage":"9%",
-    "description":"Performs a legsweep while climbing up."
-  },
-  {
-    "fighter":"Samus",
-    "input":"Neutral special",
-    "name":"Charge Shot",
-    "damage":"5% (uncharged), 28% (fully charged)",
-    "description":"Charges a ball of energy and fires it. Boasts excellent KO potential when fully charged, and is a useful intercepting move at a low charge. KOs at 70%-110% depending on rage and the opponent's weight and DI. Can be used to break shields if used in conjunction with her neutral attack, up or down tilts, aerials, Bomb and Super Missile. When using her forward tilt to launch the opponent into tumbling, it can set up a guaranteed combo into Charge Shot regardless of the opponent's tech option, as Charge Shot will always catch their tech direction. A non-fully charged Charge Shot has way less endlag than its fully charged counterpart, allowing for followups and combos at various percentages at the cost of less power.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/8/84/SamusChargeShotMinSSBU.gif/500px-SamusChargeShotMinSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Side special",
-    "name":"Missile",
-    "damage":"8% (Homing), 12% (Super)",
-    "description":"Fires a Missile, which homes in on the opponent. If the special button is tapped like a smash attack, Samus will instead fire a Super Missile, which stays in place for a short while before traveling in a straight line, and deals more damage and knockback. Both variations deal low knockback, but can be used to break a shield if used in conjunction with a fully charged Charge Shot. Both Missile variations can also be used as set-ups by opening up an opportunity for a grab aerial, or Charge Shot, while the Super variation sets up better for a true combo into a forward jumping Charge Shot at high percentages. The Homing variation is also useful for catching recoveries and forcing air dodges, which can open up punishment opportunities.",
-    "hitbox":"https://ssb.wiki.gallery/images/thumb/2/24/SamusSSpecialHomingSSBU.png/500px-SamusSSpecialHomingSSBU.png"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Up special",
-    "name":"Screw Attack",
-    "damage":"3% (grounded hit 1), 1% (grounded hits 2-8), 2% (grounded hit 9), 1% (aerial hits 1-12)",
-    "description":"Leaps upward to perform a high-speed somersault while discharging energy. Shoots upward if initiated from the ground, while it gains distance slower if started in the air. A useful out of shield option, due to coming out on frame 4 on the ground, and deals good knockback that can KO around 100% while near the upper blast line.",
-    "hitbox":"https://ssb.wiki.gallery/images/d/de/SamusUSpecialGroundedSSBU.gif"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Down special",
-    "name":"Bomb",
-    "damage":"4% (contact), 5% (explosion)",
-    "description":"Rolls into her Morph Ball form and drops a Bomb, which explodes after a set time. Useful to force an opponent to shield and for edgeguarding, being capable of 2 frame punishes if timed correctly. It can also break shields depending on their health if used along with her up and down tilts or a fully charged Charge Shot.",
-    "hitbox":"https://ssb.wiki.gallery/images/9/92/SamusDSpecialSSBU.png"
-  },
-  {
-    "fighter":"Samus",
-    "input":"Final Smash",
-    "name":"Zero Laser",
-    "damage":"1% (charge loop), 0.5% (fringe loop), 1.5% (thruster, main loop), 2% (main loop; point blank, long range), 8% (fringe blast), 10.5% (main blast)",
-    "description":"Fires a very large, bluish white energy beam. The beam can be angled vertically during the Final Smash."
-  }
-]
+    {
+      "fighter":"Mario",
+      "input":"Neutral attack",
+      "name":"",
+      "damage":"2.2%",
+      "description":"The Punch + Punch + Kick combo from Super Mario 64: two punches followed by a jumping kick. The first and second hits can lock, and the general speed of the move makes it good as a grounded combo breaker or quick punish tool, as the first hit comes out on frame 2.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/0/07/MarioJab1SSBU.gif/500px-MarioJab1SSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Forward tilt",
+      "name":"",
+      "damage":"7%",
+      "description":"A wheel kick. It can be angled. Very quick and good for getting opponents off of Mario due to its high base knockback, and angling it down enables it to hit ledge hangs, but it's weak and situational, as it cannot KO until 200% or even lock.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/5/51/MarioFTiltSSBU.gif/500px-MarioFTiltSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Up tilt",
+      "name":"",
+      "damage":"5.5%",
+      "description":"A spinning jumping uppercut. Effective for comboing into itself at low percents, and into aerial attacks from mid to high percents; however, the former combo can be escaped with the proper combination of DI and SDI, and can be punished on hit at very low percents. Unlike in SSB4, the move's altered animation results in the hitbox being positioned fairly high to the ground on the first frame it is active, creating a blindspot and making it fairly difficult or even impossible to hit shorter or crouching characters with the move. It appears to be based on the second hit of the Mega Glove's combo from Super Mario RPG: Legend of the Seven Stars.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/9/91/MarioUTiltSSBU.gif/500px-MarioUTiltSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Down tilt",
+      "name":"",
+      "damage":"5% (foot), 7% (leg)",
+      "description":"A leg sweep. A reliable combo starter that works at a wider range of percents than up tilt, at the cost of being less consistent due to its different hitboxes, and unable to combo into itself as effectively. It can also hit ledge hangs and combo off from ledge as well.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/4/4d/MarioDTiltSSBU.gif/500px-MarioDTiltSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Dash attack",
+      "name":"",
+      "damage":"8% (clean), 6% (late)",
+      "description":"A baseball slide. Has a diagonal knockback angle, making its lingering hitbox useful for 2-framing certain opponents and punishing spot dodges. The new animation is more unfavorable in terms of hitbox placements. Very similar to the Slide Kick from Super Mario 64, and also similar to Mario's running turn animation in New Super Mario Bros.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/8/8e/MarioDashAttackSSBU.gif/500px-MarioDashAttackSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Forward smash",
+      "name":"",
+      "damage":"17.8% (fire), 14.7% (arm)",
+      "description":"Steps back and does a palm thrust that produces a small explosion. Though it is Mario's slowest ground attack, coming out on frame 15, it is among the quicker forward smashes and considered among the best in the game for several reasons: It is Mario's most powerful KO move when sweet spotted, KOing as low as 65% by the ledge, the fireball itself is disjointed, can be angled downwards or upwards to hit ledge hangs, and the start-up animation has Mario pull back his hurtbox deceptively far, inadvertently allowing him to avoid several attacks. However, the sweet spot is out prioritized by the sour spot.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/c/ca/MarioFSmashSSBU.gif/500px-MarioFSmashSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Up smash",
+      "name":"Lead Headbutt",
+      "damage":"14%",
+      "description":"An upward arcing headbutt. One of Mario's most reliable KO options. Its quick startup at frame 9 makes it a useful out of shield option, as well as being difficult to react to if the opponent is within its range. His head is intangible while its hitboxes are active, giving it pseudo-disjointed range. Its hitboxes reach behind Mario a good distance but do not reach as far in front of him, thus having trouble hitting short or crouching opponents in front of him. It has very fast interruptibility for its strength, at frame 40, and its damage output is also just enough to make it difficult for most characters to punish out of shield.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/2/2a/MarioUSmashSSBU.gif/500px-MarioUSmashSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Down smash",
+      "name":"",
+      "damage":"10% (front), 12% (back)",
+      "description":"The Sweep Kick from Super Mario 64. Mario does a breakdance kick that hits both sides. Mario's fastest smash attack, coming out as fast as all his tilts, and both hits semi-spike opponents, though the frontal hit is rather weak in comparison to the back hit. Also capable of hitting ledge hangs. The animation in Ultimate more closely resembles Mario's breakdance from Dance Dance Revolution: Mario Mix.",
+      "hitbox":"https://ssb.wiki.gallery/images/3/36/MarioDSmashSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Neutral aerial",
+      "name":"",
+      "damage":"8% (clean), 5% (late)",
+      "description":"A flying kick. As a sex kick, it loses its average power after the first frames. It is useful for breaking out of combos due to its very fast startup (frame 3), and as a versatile horizontal combo extender, as well as for locking opponents. Autocancels in a short hop. Can combo into a tilt attack, up aerial, or grab at low percents if landing on the ground shortly after the hit, as well as boasting numerous KO confirms off the late hit at high percents. Very similar to the Jump Kick from Super Mario 64.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/4/40/MarioNAirSSBU.gif/500px-MarioNAirSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Forward aerial",
+      "name":"Meteor Knuckle",
+      "damage":"12% (early), 14% (clean), 10% (late)",
+      "description":"Rears back his fist and then throws an overhand. When hit clean, it is a meteor smash with enough knockback to KO under 45% offstage and has deceptively high combo potential. It has the slowest startup of his standard moveset (frame 16), high ending lag, and is Mario's only aerial that doesn't autocancel in a short hop. Other than lacking combo potential, the early and late hits are too weak to KO reliably.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/1/1d/MarioFAirSSBU.gif/500px-MarioFAirSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Back aerial",
+      "name":"",
+      "damage":"10.5% (clean), 7% (late)",
+      "description":"A dropkick behind Mario. Has fast startup with low ending and landing lag, and more range than most of Mario's other aerials, making it an effective spacing tool and horizontal combo extender at low percents, as well as having the ability to pseudo Wall of Pain off stage. Also capable of killing at higher percents, and can be used twice in a short hop, or with neutral, up and down airs.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/1/15/MarioBAirSSBU.gif/500px-MarioBAirSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Up aerial",
+      "name":"",
+      "damage":"7%",
+      "description":"A bicycle kick. Has extremely fast startup (frame 4), consistent strength throughout the move and very low ending and landing lag, making it one of Mario's most versatile combo starters and extenders in his moveset. Can combo into itself easily until higher percents, and can kill off the top at high percents.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/3/3a/MarioUAirSSBU.gif/500px-MarioUAirSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Down aerial",
+      "name":"Mario Tornado",
+      "damage":"1.4% (hits 1-5), 5.5% (hit 6), 2% (landing)",
+      "description":"Rapidly spins around, trapping opponents and damaging them with a series of discus clotheslines and spinning backfists before assuming a spread-eagle position to launch them. Possesses a rather low startup and ending lag, making the move reasonably safe to use barring its short range and lack of disjointed hitboxes. It also has a landing hitbox that combos reliably into tilts or a grab. However, opponents will occasionally break out of the move before the final hit, especially when Mario is moving quickly through the air. Useful as a combo finisher, combo breaker, and general damage-racking option, and can KO opponents deceptively well at high percentages. Resembles the Spin Jump, a technique that first appeared in Super Mario World.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/0/06/MarioDAirSSBU.gif/500px-MarioDAirSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Grab",
+      "name":"",
+      "damage":"\u2014",
+      "description":"Reaches out. Mario's overall grab range is average, but tied for the fastest in the game."
+    },
+    {
+      "fighter":"Mario",
+      "input":"Pummel",
+      "name":"",
+      "damage":"1.3%",
+      "description":"Headbutts the opponent.",
+      "hitbox":"https://ssb.wiki.gallery/images/d/de/MarioPummelSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Forward throw",
+      "name":"",
+      "damage":"8%",
+      "description":"Spins the opponent around once and throws them forward. Can be followed up with dash attack at lower percents, or be used to set up tech situations and mixups, or edge guards. It can kill at very high percents at the ledge.",
+      "hitbox":"https://ssb.wiki.gallery/images/6/69/MarioFThrowSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Back throw",
+      "name":"Airplane Swing",
+      "damage":"11% (throw), 8% (collateral)",
+      "description":"A giant swing, a  throw used on floored opponents in wrestling. Mario grabs the opponent by the feet, making them fall to the ground and spins three times while holding them by the legs before throwing them backward. Can KO even the heaviest of characters reliably at around 160% near the edge without the need of rage, but can KO middleweights as early as 120% if they fail to DI. It also has solid use in matches with more than one player, as the collateral hit has a large range and high knockback. Due to its slow speed, it is easy to DI, causing it to KO only above 160%. It is based on the throw that he uses against Bowser in Super Mario 64.",
+      "hitbox":"https://ssb.wiki.gallery/images/c/c8/MarioBThrowSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Up throw",
+      "name":"",
+      "damage":"7%",
+      "description":"Holds the opponent by the chest and then tosses them directly overhead with both hands. An effective combo throw at low to medium percentages, comboing into all aerials except forward air. Very similar animation to the Upward Cap Throw from Super Mario Odyssey.",
+      "hitbox":"https://ssb.wiki.gallery/images/b/b7/MarioUThrowSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Down throw",
+      "name":"",
+      "damage":"5%",
+      "description":"Jumps upwards while holding the opponent and then performs a body slam, slamming them to the ground with one arm. It can be followed up with several options, including but not limited to up tilt on certain characters at varying percents, Super Jump Punch, neutral attack, and up aerial at mid percents on most characters. Effective for starting ladder combos on platform stages.",
+      "hitbox":"https://ssb.wiki.gallery/images/0/0c/MarioDThrowSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Floor attack (front)",
+      "name":"",
+      "damage":"7%",
+      "description":"Punches behind himself and then in front of himself while getting up."
+    },
+    {
+      "fighter":"Mario",
+      "input":"Floor attack (back)",
+      "name":"",
+      "damage":"7%",
+      "description":"Performs a modified version of the Sweep Kick from Super Mario 64 before getting up."
+    },
+    {
+      "fighter":"Mario",
+      "input":"Floor attack (trip)",
+      "name":"",
+      "damage":"5%",
+      "description":"Performs a sidekick behind himself and then in front of himself while getting up."
+    },
+    {
+      "fighter":"Mario",
+      "input":"Edge attack",
+      "name":"",
+      "damage":"9%",
+      "description":"Performs a dropkick while climbing up."
+    },
+    {
+      "fighter":"Mario",
+      "input":"Neutral special",
+      "name":"Fireball",
+      "damage":"5% (early), 4% (late)",
+      "description":"Throws a Fireball. The fireball bounces along the ground several times before disappearing. Despite its low damage, it is good for controlling space when performed in the air because Mario retains full aerial mobility throughout the move. Because the fireball is subject to gravity, it can be used to cover Mario while recovering high, and can combo into quick attacks if Mario is close enough. A reference to the fireballs he fires when he obtains the Fire Flower, which first appeared in Super Mario Bros.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/3/31/MarioNSpecialSSBU.png/500px-MarioNSpecialSSBU.png"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Side special",
+      "name":"Cape",
+      "damage":"7%, 1.5x times the reflected projectile",
+      "description":"Dons a Cape around his neck and waves it in front of himself. It reflects projectiles and reverses enemies, as well as reversing the opponent's controls for a brief instant. In the air, it causes a Fall Break by stalling Mario in the air, allowing for timing mixups in juggle and recovery situations. Useful for gimping opponents who are trying to recover.",
+      "hitbox":"https://ssb.wiki.gallery/images/4/47/MarioCapeSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Up special",
+      "name":"Super Jump Punch",
+      "damage":"5% (hit 1), 0.6% (hits 2-6), 3% (hit 7)",
+      "description":"A jumping uppercut that produces Star Coins or Metro Kingdom regional coins on contact. Mario's only recovery move, but it leaves him helpless. Its extremely fast startup (frame 3) and intangibility frames on startup make it useful as an out of shield option. Can KO near the upper blast line, making it a good combo finisher out of a ladder. Can be angled to change the direction it travels in.",
+      "hitbox":"https://ssb.wiki.gallery/images/e/ea/MarioSuperJumpPunchSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Down special",
+      "name":"F.L.U.D.D.",
+      "damage":"0%",
+      "description":"Wields F.L.U.D.D. and charges up water to launch a stream at the opponent. The charge time is rather fast, and it can be charge canceled and stored for later. The water pushes opponents but does not damage them. Mario can change the angle of the stream upwards or downwards. Useful for disrupting an approach and creating space, which can help alleviate pressure and potentially put his opponent in a vulnerable position. It also slightly pushes Mario backward if charged enough. It can also be used as an edgeguarding tool.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/4/40/MarioDSpecialSSBU.png/500px-MarioDSpecialSSBU.png"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Final Smash",
+      "name":"Mario Finale",
+      "damage":"2% (early), 2.5% (clean), 3% (late)",
+      "description":"Rears his arms back before thrusting them forward to generate and launch two gigantic Fireballs, which trap and repeatedly damage any opponents in their path. Deals almost no knockback, but has decent damage and can carry opponents off the side of the stage when near the ledge.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/f/fb/MarioMarioFinaleSSBU.gif/500px-MarioMarioFinaleSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Neutral attack",
+      "name":"Straight and Cannon Hammer",
+      "damage":"3%",
+      "description":"A left-handed jab followed by a forearm club with the Arm Cannon. Despite dealing above-average damage for a neutral attack, it is poor overall, as opponents can usually act out before the second hit connects by shielding or using a fast attack, while the second hit may not even connect at high percentages. Depending on the opponent's weight, it is safe and a true combo at high percents, but only if the first hit connects relatively close to the arm and not at the fist. The second hit does have KO potential at very high percentages, however, and the first hit is very fast, coming out on frame 3, making it a decent interrupt tool.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/a/a0/SamusJab1SSBU.gif/500px-SamusJab1SSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Forward tilt",
+      "name":"",
+      "damage":"11% (foot), 10% (leg), 9% (body)",
+      "description":"A reverse roundhouse kick. Deals more damage and knockback at her foot, while her leg deals less damage and knockback. Can be angled, which causes it to deal more damage, but may cause it to miss shorter characters on the ground if angled up. The foot sweetspot deals rather potent knockback for a tilt attack, which can KO at the edge at around 125%. At varying percentages, depending on which part of the move is landed, it can lead into a guaranteed Charge Shot, as regardless of teching, Charge Shot can catch the opponent's option in time if they are knocked down.",
+      "hitbox":"https://ssb.wiki.gallery/images/a/a4/SamusFTiltSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Up tilt",
+      "name":"",
+      "damage":"13% (grounded), 12% (aerial)",
+      "description":"An axe kick, which is identical to Captain Falcon's up tilt. It behaves unusually as it meteor smashes grounded opponents, but launches aerial opponents at a horizontal angle. This allows it to set up combos against the former at a wide range of percents, while still being a reliable edgeguard tool, due to its wide coverage and powerful enough knockback to KO aerial opponents at around 95% at the edge. At high percents, the grounded meteor can also set up KO confirms into a fully charged Charge Shot. However, the move has noticeable startup, due to coming out on frame 15, making it Samus's slowest normal attack on the ground.",
+      "hitbox":"https://ssb.wiki.gallery/images/f/f6/SamusUTiltSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Down tilt",
+      "name":"",
+      "damage":"12%",
+      "description":"Kneels and quickly thrusts her Arm Cannon downward to fire a small, fiery blast. It is very fast, due to coming out on frame 6, and deals respectable damage and knockback for a tilt attack, KOing at around 160% off the top blast line. It is useful as a close range anti-pressure option on opponents in front of Samus, or as a punishment option. However, its very high ending lag leaves it easy to punish if shielded or missed.",
+      "hitbox":"https://ssb.wiki.gallery/images/1/11/SamusDTiltSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Dash attack",
+      "name":"",
+      "damage":"10% (clean), 6% (late)",
+      "description":"A shoulder tackle with a white aura around Samus, similar to the Shinespark technique from her home series. Deals more damage and knockback at the start and the middle of the attack, KOing opponents at around 150% from the center of Final Destination, and earlier near edges. However, the late hit is noticeably weaker, and the move lacks combo potential, especially compared to its previous appearance. This move originates from the Shinespark technique, first becoming available in Super Metroid.",
+      "hitbox":"https://ssb.wiki.gallery/images/2/26/SamusDashAttackSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Forward smash",
+      "name":"",
+      "damage":"13% (Arm Cannon), 15% (blast)",
+      "description":"Quickly thrusts her Arm Cannon forward to fire a small, fiery blast. Functions similarly to Mario's forward smash, with the blast being the most powerful part of the move. It is one of the fastest forward smashes in the game, coming out on frame 10, while the blast has the highest knockback out of her smash attacks, KOing at around 100% from center stage. However, it is rather weak otherwise, with the Arm Cannon KOing at around 135% and the sourspot taking priority over the sweetspot. It can be angled like her forward tilt, with the upward angle dealing more damage and knockback, though it can typically miss as a result; conversely, the downward angle can hit ledge hanging opponents, but deals slightly less damage and knockback.",
+      "hitbox":"https://ssb.wiki.gallery/images/e/e9/SamusFSmashSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Up smash",
+      "name":"Cover Fire",
+      "damage":"3% (hits 1-4), 6% (hit 5)",
+      "description":"Fires five fiery blasts in an overhead arcing motion. True to its name, this move works best as an anti-air attack, as its multiple hits give a good amount of aerial protection. Conversely, it is unable to hit grounded opponents unless they are close enough to Samus. It is also her most damaging smash attack, dealing 18% total uncharged. However, due to its hits being spread above Samus, it can fail to fully connect if the opponent is hit from too far. If all 5 hits connect, it can KO middleweights at around 100% from ground level.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/4/45/SamusUSmashSSBU.gif/500px-SamusUSmashSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Down smash",
+      "name":"",
+      "damage":"10% (front), 12% (back)",
+      "description":"A legsweep. A semi-spike with decent speed and high base knockback, allowing it to set up edgeguards and punish rolls effectively. The front hit can KO middleweights center stage around 150%, with the back hit KOing even earlier at around 135%.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/6/63/SamusDSmashSSBU.gif/500px-SamusDSmashSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Neutral aerial",
+      "name":"",
+      "damage":"10% (hit 1), 9% (hit 2, clean), 8% (hit 2, late)",
+      "description":"A spinning roundhouse kick, similar to the aerial version of the Counter Attack from Metroid: Other M. Comes out in frame 8. Hits on both sides quickly and can autocancel with a short hop fast fall. Its front hit and sweetspotted back hit also deal powerful knockback, which makes it a viable KOing option offstage or near the edge, as well as a decent combo finisher and one of the strongest aerials of its type.",
+      "hitbox":"https://ssb.wiki.gallery/images/4/4d/SamusNAirSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Forward aerial",
+      "name":"",
+      "damage":"3% (hit 1), 1.6% (hits 2-4), 5% (hit 5)",
+      "description":"Fires five fiery blasts in a slow, downward arcing motion. Fast, coming out on frame 6, thus having the second lowest startup lag of Samus's aerials. The first four hits drag opponents into the rest of the move using the autolink angle, with the last hit carrying the entire attack's knockback. Samus' main aerial move for both combos and protection. Extremely useful as an edge get-up option or against air dodges due to its multiple hits, and using the move immediately after a short hop can hit opponents with the last hit before Samus lands again. It's her only aerial that does not autocancels In a short hop. It can KO middleweights at around 155% from center-stage if all hits connect.",
+      "hitbox":"https://ssb.wiki.gallery/images/2/2b/SamusFAirSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Back aerial",
+      "name":"",
+      "damage":"14% (clean foot), 12% (clean leg), 9% (late)",
+      "description":"A back kick. It is fast and deals powerful knockback when sweetspotted, which makes it an excellent KOing option, especially when edgeguarding. When sweetspotted, it is among the strongest back aerials in the game, KOing Mario at 100% from center stage.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/4/46/SamusBAirSSBU.gif/500px-SamusBAirSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Up aerial",
+      "name":"",
+      "damage":"3% (hit 1), 1.3% (hits 2-5), 4% (hit 5)",
+      "description":"A diagonal corkscrew flying kick, hitting multiple times. It is her fastest aerial, due to coming out on frame 5. Grounded opponents can be hit by the last hitbox if Samus lands while starting the move in the air, although it is difficult to do so, and risky due to the move's high landing lag. It can be used as a follow-up after a dash attack, grounded up tilt, down aerial, or down throw, all of which can be followed up with another up aerial and/or can be finished off with a Screw Attack. On stages with platforms, it even has potential for a zero-to-death when using a platform to extend the combo. Can KO if used high enough and close to the blast line.",
+      "hitbox":"https://ssb.wiki.gallery/images/8/8e/SamusUAirSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Down aerial",
+      "name":"",
+      "damage":"10% (early, late), 14% (clean)",
+      "description":"Swings her Arm Cannon in a downward arcing motion. Hitting with the move's trail meteor smashes opponents, while the edges of the move at the very start and end deal decent horizontal knockback. Autocancels from a short hop, and due to its relatively low ending lag, the meteor smash is excellent for starting combos on grounded opponents, much like her up tilt.",
+      "hitbox":"https://ssb.wiki.gallery/images/6/63/SamusDAirSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Grab aerial",
+      "name":"Grapple Beam",
+      "damage":"2.5% (hit 1), 4% (hit 2)",
+      "description":"Fires the Grapple Beam. A useful spacing option due to having only 8 frames of landing lag. It autocancels from a full hop and has impressive range, being the longest grab aerial in game. In addition to its recovery and spacing capabilities, it is good at setting up combos at close range upon landing, due to its low landing lag. Unlike in previous games, however, hitting an opponents causes the Grapple Beam to retract earlier, while not reducing the move's ending lag.",
+      "hitbox":"https://ssb.wiki.gallery/images/1/1b/SamusZAirSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Grab",
+      "name":"Grapple Beam",
+      "damage":"\u2014",
+      "description":"Fires the Grapple Beam. It has impressive range and is the longest tether grab in the game. However, it is tied with her Zero Suited form's grab as the second slowest in terms of ending lag, making it very punishable if missed."
+    },
+    {
+      "fighter":"Samus",
+      "input":"Pummel",
+      "name":"",
+      "damage":"1.3%",
+      "description":"A palm strike. Has moderate damage and speed relative to other pummels.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/4/4a/SamusPummelSSBU.gif/500px-SamusPummelSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Forward throw",
+      "name":"",
+      "damage":"10%",
+      "description":"Twirls the opponent overhead, then flings them forward. Although its knockback has been increased, it remains too weak for KOing at realistic percents, unless Samus has rage and is at the edge of the stage.",
+      "hitbox":"https://ssb.wiki.gallery/images/3/3a/SamusFThrowSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Back throw",
+      "name":"",
+      "damage":"10%",
+      "description":"Swings the opponent behind herself. Slightly more effective for KOing and setting up edgeguards than her forward throw, due to its lower launch angle.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/c/c4/SamusBThrowSSBU.gif/500px-SamusBThrowSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Up throw",
+      "name":"",
+      "damage":"5% (hit 1), 7% (throw)",
+      "description":"Puts the opponent above herself and blasts them upward with her Arm Cannon. Samus's most damaging and strongest throw, possessing enough knockback to KO middleweights around 150% from ground level and without rage. At low percents, it can also combo into an up aerial against large characters, as well as Screw Attack against most characters, though the latter will only connect its hits reliably on a few characters.",
+      "hitbox":"https://ssb.wiki.gallery/images/c/cb/SamusUThrowSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Down throw",
+      "name":"",
+      "damage":"8%",
+      "description":"Swings the opponent high above her head, then slams them onto the ground. A reliable combo starter, with its followups including a dash attack, small step forward smash or dashing up smash at low percents, a neutral, back or up aerial up to mid percents, and a forward aerial up to high percents.",
+      "hitbox":"https://ssb.wiki.gallery/images/9/94/SamusDThrowSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Floor attack (front)",
+      "name":"",
+      "damage":"7%",
+      "description":"Swings her Arm Cannon in front of herself and then fires a blast behind herself."
+    },
+    {
+      "fighter":"Samus",
+      "input":"Floor attack (back)",
+      "name":"",
+      "damage":"7%",
+      "description":"Performs a low-level roundhouse kick."
+    },
+    {
+      "fighter":"Samus",
+      "input":"Floor attack (trip)",
+      "name":"",
+      "damage":"5%",
+      "description":"Performs a shin kick in front of herself and then a back kick behind herself."
+    },
+    {
+      "fighter":"Samus",
+      "input":"Edge attack",
+      "name":"",
+      "damage":"9%",
+      "description":"Performs a legsweep while climbing up."
+    },
+    {
+      "fighter":"Samus",
+      "input":"Neutral special",
+      "name":"Charge Shot",
+      "damage":"5% (uncharged), 28% (fully charged)",
+      "description":"Charges a ball of energy and fires it. Boasts excellent KO potential when fully charged, and is a useful intercepting move at a low charge. KOs at 70%-110% depending on rage and the opponent's weight and DI. Can be used to break shields if used in conjunction with her neutral attack, up or down tilts, aerials, Bomb and Super Missile. When using her forward tilt to launch the opponent into tumbling, it can set up a guaranteed combo into Charge Shot regardless of the opponent's tech option, as Charge Shot will always catch their tech direction. A non-fully charged Charge Shot has way less endlag than its fully charged counterpart, allowing for followups and combos at various percentages at the cost of less power.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/8/84/SamusChargeShotMinSSBU.gif/500px-SamusChargeShotMinSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Side special",
+      "name":"Missile",
+      "damage":"8% (Homing), 12% (Super)",
+      "description":"Fires a Missile, which homes in on the opponent. If the special button is tapped like a smash attack, Samus will instead fire a Super Missile, which stays in place for a short while before traveling in a straight line, and deals more damage and knockback. Both variations deal low knockback, but can be used to break a shield if used in conjunction with a fully charged Charge Shot. Both Missile variations can also be used as set-ups by opening up an opportunity for a grab aerial, or Charge Shot, while the Super variation sets up better for a true combo into a forward jumping Charge Shot at high percentages. The Homing variation is also useful for catching recoveries and forcing air dodges, which can open up punishment opportunities.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/2/24/SamusSSpecialHomingSSBU.png/500px-SamusSSpecialHomingSSBU.png"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Up special",
+      "name":"Screw Attack",
+      "damage":"3% (grounded hit 1), 1% (grounded hits 2-8), 2% (grounded hit 9), 1% (aerial hits 1-12)",
+      "description":"Leaps upward to perform a high-speed somersault while discharging energy. Shoots upward if initiated from the ground, while it gains distance slower if started in the air. A useful out of shield option, due to coming out on frame 4 on the ground, and deals good knockback that can KO around 100% while near the upper blast line.",
+      "hitbox":"https://ssb.wiki.gallery/images/d/de/SamusUSpecialGroundedSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Down special",
+      "name":"Bomb",
+      "damage":"4% (contact), 5% (explosion)",
+      "description":"Rolls into her Morph Ball form and drops a Bomb, which explodes after a set time. Useful to force an opponent to shield and for edgeguarding, being capable of 2 frame punishes if timed correctly. It can also break shields depending on their health if used along with her up and down tilts or a fully charged Charge Shot.",
+      "hitbox":"https://ssb.wiki.gallery/images/9/92/SamusDSpecialSSBU.png"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Final Smash",
+      "name":"Zero Laser",
+      "damage":"1% (charge loop), 0.5% (fringe loop), 1.5% (thruster, main loop), 2% (main loop; point blank, long range), 8% (fringe blast), 10.5% (main blast)",
+      "description":"Fires a very large, bluish white energy beam. The beam can be angled vertically during the Final Smash."
+    }
+  ]
 }
