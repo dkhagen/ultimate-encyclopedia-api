@@ -1,412 +1,443 @@
-{"main":
-[
-  {
-    "name":"Mario",
-    "series":"Super Mario Bros.",
-    "image":"https://media.wired.com/photos/5926c126af95806129f50868/master/w_2560%2Cc_limit/SuperMarioRunTA.jpg",
-    "moves":{
-      "moveList":[
-        {
-          "input":"Jab",
-          "name":"",
-          "damage":[
-            2.2,
-            1.7,
-            4
-          ],
-          "description":"The Punch + Punch + Kick combo from Super Mario 64: two punches followed by a jumping kick. The first and second hits can lock, and the general speed of the move makes it good as a grounded combo breaker or quick punish tool, as the first hit comes out on frame 2.",
-          "hitbox":"https://ssb.wiki.gallery/images/0/07/MarioJab1SSBU.gif"
-        },
-        {
-          "input":"Forward Tilt",
-          "name":"",
-          "damage":[
-            7
-          ],
-          "description":"A wheel kick. It can be angled. Very quick and good for getting opponents off of Mario due to its high base knockback, and angling it down enables it to hit ledge hangs, but it's weak and situational, as it cannot KO until 200% or even lock.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/5/51/MarioFTiltSSBU.gif/500px-MarioFTiltSSBU.gif"
-        },
-        {
-          "input":"Up Tilt",
-          "name":"",
-          "damage":[
-            5.5
-          ],
-          "description":"A spinning jumping uppercut. Effective for comboing into itself at low percents, and into aerial attacks from mid to high percents; however, the former combo can be escaped with the proper combination of DI and SDI, and can be punished on hit at very low percents. Unlike in SSB4, the move's altered animation results in the hitbox being positioned fairly high to the ground on the first frame it is active, creating a blindspot and making it fairly difficult or even impossible to hit shorter or crouching characters with the move. It appears to be based on the second hit of the Mega Glove's combo from Super Mario RPG: Legend of the Seven Stars.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/5/5d/MarioFTiltUpSSBU.gif/500px-MarioFTiltUpSSBU.gif"
-        },
-        {
-          "input":"Down Tilt",
-          "name":"",
-          "damage":[
-            5,
-            7
-          ],
-          "description":"A leg sweep. A reliable combo starter that works at a wider range of percents than up tilt, at the cost of being less consistent due to its different hitboxes, and unable to combo into itself as effectively. It can also hit ledge hangs and combo off from ledge as well.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/0/0e/MarioFTiltDownSSBU.gif/500px-MarioFTiltDownSSBU.gif"
-        },
-        {
-          "input":"Dash Attack",
-          "name":"",
-          "damage":[
-            8,
-            6
-          ],
-          "description":"A baseball slide. Has a diagonal knockback angle, making its lingering hitbox useful for 2-framing certain opponents and punishing spot dodges. The new animation is more unfavorable in terms of hitbox placements. Very similar to the Slide Kick from Super Mario 64, and also similar to Mario's running turn animation in New Super Mario Bros.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/8/8e/MarioDashAttackSSBU.gif/500px-MarioDashAttackSSBU.gif"
-        },
-        {
-          "input":"Forward Smash",
-          "name":"",
-          "damage":[
-            17.8,
-            14.7
-          ],
-          "description":"Steps back and does a palm thrust that produces a small explosion. Though it is Mario's slowest ground attack, coming out on frame 15, it is among the quicker forward smashes and considered among the best in the game for several reasons: It is Mario's most powerful KO move when sweet spotted, KOing as low as 65% by the ledge, the fireball itself is disjointed, can be angled downwards or upwards to hit ledge hangs, and the start-up animation has Mario pull back his hurtbox deceptively far, inadvertently allowing him to avoid several attacks. However, the sweet spot is out prioritized by the sour spot.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/c/ca/MarioFSmashSSBU.gif/500px-MarioFSmashSSBU.gif"
-        },
-        {
-          "input":"Up Smash",
-          "name":"Lead Headbutt",
-          "damage":[
-            14
-          ],
-          "description":"An upward arcing headbutt. One of Mario's most reliable KO options. Its quick startup at frame 9 makes it a useful out of shield option, as well as being difficult to react to if the opponent is within its range. His head is intangible while its hitboxes are active, giving it pseudo-disjointed range. Its hitboxes reach behind Mario a good distance but do not reach as far in front of him, thus having trouble hitting short or crouching opponents in front of him. It has very fast interruptibility for its strength, at frame 40, and its damage output is also just enough to make it difficult for most characters to punish out of shield.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/2/2a/MarioUSmashSSBU.gif/500px-MarioUSmashSSBU.gif"
-        },
-        {
-          "input":"Down Smash",
-          "name":"",
-          "damage":[
-            10,
-            12
-          ],
-          "description":"The Sweep Kick from Super Mario 64. Mario does a breakdance kick that hits both sides. Mario's fastest smash attack, coming out as fast as all his tilts, and both hits semi-spike opponents, though the frontal hit is rather weak in comparison to the back hit. Also capable of hitting ledge hangs. The animation in Ultimate more closely resembles Mario's breakdance from Dance Dance Revolution: Mario Mix.",
-          "hitbox":"https://ssb.wiki.gallery/images/3/36/MarioDSmashSSBU.gif"
-        },
-        {
-          "input":"Neutral Aerial",
-          "name":"",
-          "damage":[
-            8,
-            5
-          ],
-          "description":"A flying kick. As a sex kick, it loses its average power after the first frames. It is useful for breaking out of combos due to its very fast startup (frame 3), and as a versatile horizontal combo extender, as well as for locking opponents. Autocancels in a short hop. Can combo into a tilt attack, up aerial, or grab at low percents if landing on the ground shortly after the hit, as well as boasting numerous KO confirms off the late hit at high percents. Very similar to the Jump Kick from Super Mario 64.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/4/40/MarioNAirSSBU.gif/500px-MarioNAirSSBU.gif"
-        },
-        {
-          "input":"Forward Aerial",
-          "name":"Meteor Knuckle",
-          "damage":[
-            12,
-            14,
-            10
-          ],
-          "description":"Rears back his fist and then throws an overhand. When hit clean, it is a meteor smash with enough knockback to KO under 45% offstage and has deceptively high combo potential. It has the slowest startup of his standard moveset (frame 16), high ending lag, and is Mario's only aerial that doesn't autocancel in a short hop. Other than lacking combo potential, the early and late hits are too weak to KO reliably.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/1/1d/MarioFAirSSBU.gif/500px-MarioFAirSSBU.gif"
-        },
-        {
-          "input":"Back Aerial",
-          "name":"",
-          "damage":[
-            10.5,
-            7
-          ],
-          "description":"A dropkick behind Mario. Has fast startup with low ending and landing lag, and more range than most of Mario's other aerials, making it an effective spacing tool and horizontal combo extender at low percents, as well as having the ability to pseudo Wall of Pain off stage. Also capable of killing at higher percents, and can be used twice in a short hop, or with neutral, up and down airs.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/1/15/MarioBAirSSBU.gif/500px-MarioBAirSSBU.gif"
-        },
-        {
-          "input":"Up Aerial",
-          "name":"",
-          "damage":[
-            7
-          ],
-          "description":"A bicycle kick. Has extremely fast startup (frame 4), consistent strength throughout the move and very low ending and landing lag, making it one of Mario's most versatile combo starters and extenders in his moveset. Can combo into itself easily until higher percents, and can kill off the top at high percents.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/3/3a/MarioUAirSSBU.gif/500px-MarioUAirSSBU.gif"
-        },
-        {
-          "input":"Down Aerial",
-          "name":"",
-          "damage":[
-            7
-          ],
-          "description":"Rapidly spins around, trapping opponents and damaging them with a series of discus clotheslines and spinning backfists before assuming a spread-eagle position to launch them. Possesses a rather low startup and ending lag, making the move reasonably safe to use barring its short range and lack of disjointed hitboxes. It also has a landing hitbox that combos reliably into tilts or a grab. However, opponents will occasionally break out of the move before the final hit, especially when Mario is moving quickly through the air. Useful as a combo finisher, combo breaker, and general damage-racking option, and can KO opponents deceptively well at high percentages. Resembles the Spin Jump, a technique that first appeared in Super Mario World.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/0/06/MarioDAirSSBU.gif/500px-MarioDAirSSBU.gif"
-        }
-      ]
+{"fighters":
+  [
+    {
+      "name":"Mario",
+      "series":"Super Mario Bros.",
+      "image":"https://media.wired.com/photos/5926c126af95806129f50868/master/w_2560%2Cc_limit/SuperMarioRunTA.jpg",
+    },
+    {
+      "name":"Link",
+      "series":"The Legend of Zelda",
+      "image":"https://static1.srcdn.com/wordpress/wp-content/uploads/2021/05/The-Legend-of-Zelda-Breath-of-the-Wild-Who-Are-The-Zonai.jpg",
+    },
+    {
+      "name":"Samus",
+      "series":"Metroid",
+      "image":"https://static.wikia.nocookie.net/smashtopia/images/5/5e/Samus-1.png/revision/latest/scale-to-width-down/1000?cb=20201222203410",
+    } 
+  ]
+},
+{"moves":
+  [
+    {
+      "fighter":"Mario",
+      "input":"Jab",
+      "name":"",
+      "damage":[
+        2.2,
+        1.7,
+        4
+      ],
+      "description":"The Punch + Punch + Kick combo from Super Mario 64: two punches followed by a jumping kick. The first and second hits can lock, and the general speed of the move makes it good as a grounded combo breaker or quick punish tool, as the first hit comes out on frame 2.",
+      "hitbox":"https://ssb.wiki.gallery/images/0/07/MarioJab1SSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Forward Tilt",
+      "name":"",
+      "damage":[
+        7
+      ],
+      "description":"A wheel kick. It can be angled. Very quick and good for getting opponents off of Mario due to its high base knockback, and angling it down enables it to hit ledge hangs, but it's weak and situational, as it cannot KO until 200% or even lock.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/5/51/MarioFTiltSSBU.gif/500px-MarioFTiltSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Up Tilt",
+      "name":"",
+      "damage":[
+        5.5
+      ],
+      "description":"A spinning jumping uppercut. Effective for comboing into itself at low percents, and into aerial attacks from mid to high percents; however, the former combo can be escaped with the proper combination of DI and SDI, and can be punished on hit at very low percents. Unlike in SSB4, the move's altered animation results in the hitbox being positioned fairly high to the ground on the first frame it is active, creating a blindspot and making it fairly difficult or even impossible to hit shorter or crouching characters with the move. It appears to be based on the second hit of the Mega Glove's combo from Super Mario RPG: Legend of the Seven Stars.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/5/5d/MarioFTiltUpSSBU.gif/500px-MarioFTiltUpSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Down Tilt",
+      "name":"",
+      "damage":[
+        5,
+        7
+      ],
+      "description":"A leg sweep. A reliable combo starter that works at a wider range of percents than up tilt, at the cost of being less consistent due to its different hitboxes, and unable to combo into itself as effectively. It can also hit ledge hangs and combo off from ledge as well.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/0/0e/MarioFTiltDownSSBU.gif/500px-MarioFTiltDownSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Dash Attack",
+      "name":"",
+      "damage":[
+        8,
+        6
+      ],
+      "description":"A baseball slide. Has a diagonal knockback angle, making its lingering hitbox useful for 2-framing certain opponents and punishing spot dodges. The new animation is more unfavorable in terms of hitbox placements. Very similar to the Slide Kick from Super Mario 64, and also similar to Mario's running turn animation in New Super Mario Bros.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/8/8e/MarioDashAttackSSBU.gif/500px-MarioDashAttackSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Forward Smash",
+      "name":"",
+      "damage":[
+        17.8,
+        14.7
+      ],
+      "description":"Steps back and does a palm thrust that produces a small explosion. Though it is Mario's slowest ground attack, coming out on frame 15, it is among the quicker forward smashes and considered among the best in the game for several reasons: It is Mario's most powerful KO move when sweet spotted, KOing as low as 65% by the ledge, the fireball itself is disjointed, can be angled downwards or upwards to hit ledge hangs, and the start-up animation has Mario pull back his hurtbox deceptively far, inadvertently allowing him to avoid several attacks. However, the sweet spot is out prioritized by the sour spot.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/c/ca/MarioFSmashSSBU.gif/500px-MarioFSmashSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Up Smash",
+      "name":"Lead Headbutt",
+      "damage":[
+        14
+      ],
+      "description":"An upward arcing headbutt. One of Mario's most reliable KO options. Its quick startup at frame 9 makes it a useful out of shield option, as well as being difficult to react to if the opponent is within its range. His head is intangible while its hitboxes are active, giving it pseudo-disjointed range. Its hitboxes reach behind Mario a good distance but do not reach as far in front of him, thus having trouble hitting short or crouching opponents in front of him. It has very fast interruptibility for its strength, at frame 40, and its damage output is also just enough to make it difficult for most characters to punish out of shield.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/2/2a/MarioUSmashSSBU.gif/500px-MarioUSmashSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Down Smash",
+      "name":"",
+      "damage":[
+        10,
+        12
+      ],
+      "description":"The Sweep Kick from Super Mario 64. Mario does a breakdance kick that hits both sides. Mario's fastest smash attack, coming out as fast as all his tilts, and both hits semi-spike opponents, though the frontal hit is rather weak in comparison to the back hit. Also capable of hitting ledge hangs. The animation in Ultimate more closely resembles Mario's breakdance from Dance Dance Revolution: Mario Mix.",
+      "hitbox":"https://ssb.wiki.gallery/images/3/36/MarioDSmashSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Neutral Aerial",
+      "name":"",
+      "damage":[
+        8,
+        5
+      ],
+      "description":"A flying kick. As a sex kick, it loses its average power after the first frames. It is useful for breaking out of combos due to its very fast startup (frame 3), and as a versatile horizontal combo extender, as well as for locking opponents. Autocancels in a short hop. Can combo into a tilt attack, up aerial, or grab at low percents if landing on the ground shortly after the hit, as well as boasting numerous KO confirms off the late hit at high percents. Very similar to the Jump Kick from Super Mario 64.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/4/40/MarioNAirSSBU.gif/500px-MarioNAirSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Forward Aerial",
+      "name":"Meteor Knuckle",
+      "damage":[
+        12,
+        14,
+        10
+      ],
+      "description":"Rears back his fist and then throws an overhand. When hit clean, it is a meteor smash with enough knockback to KO under 45% offstage and has deceptively high combo potential. It has the slowest startup of his standard moveset (frame 16), high ending lag, and is Mario's only aerial that doesn't autocancel in a short hop. Other than lacking combo potential, the early and late hits are too weak to KO reliably.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/1/1d/MarioFAirSSBU.gif/500px-MarioFAirSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Back Aerial",
+      "name":"",
+      "damage":[
+        10.5,
+        7
+      ],
+      "description":"A dropkick behind Mario. Has fast startup with low ending and landing lag, and more range than most of Mario's other aerials, making it an effective spacing tool and horizontal combo extender at low percents, as well as having the ability to pseudo Wall of Pain off stage. Also capable of killing at higher percents, and can be used twice in a short hop, or with neutral, up and down airs.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/1/15/MarioBAirSSBU.gif/500px-MarioBAirSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Up Aerial",
+      "name":"",
+      "damage":[
+        7
+      ],
+      "description":"A bicycle kick. Has extremely fast startup (frame 4), consistent strength throughout the move and very low ending and landing lag, making it one of Mario's most versatile combo starters and extenders in his moveset. Can combo into itself easily until higher percents, and can kill off the top at high percents.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/3/3a/MarioUAirSSBU.gif/500px-MarioUAirSSBU.gif"
+    },
+    {
+      "fighter":"Mario",
+      "input":"Down Aerial",
+      "name":"",
+      "damage":[
+        7
+      ],
+      "description":"Rapidly spins around, trapping opponents and damaging them with a series of discus clotheslines and spinning backfists before assuming a spread-eagle position to launch them. Possesses a rather low startup and ending lag, making the move reasonably safe to use barring its short range and lack of disjointed hitboxes. It also has a landing hitbox that combos reliably into tilts or a grab. However, opponents will occasionally break out of the move before the final hit, especially when Mario is moving quickly through the air. Useful as a combo finisher, combo breaker, and general damage-racking option, and can KO opponents deceptively well at high percentages. Resembles the Spin Jump, a technique that first appeared in Super Mario World.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/0/06/MarioDAirSSBU.gif/500px-MarioDAirSSBU.gif"
+    },
+    {
+      "fighter":"Link",
+      "input":"Jab",
+      "name":"",
+      "damage":[
+        2.2,
+        1.7,
+        4
+      ],
+      "description":"The Punch + Punch + Kick combo from Super Mario 64: two punches followed by a jumping kick. The first and second hits can lock, and the general speed of the move makes it good as a grounded combo breaker or quick punish tool, as the first hit comes out on frame 2.",
+      "hitbox":"https://ssb.wiki.gallery/images/0/07/MarioJab1SSBU.gif"
+    },
+    {
+      "fighter":"Link",
+      "input":"Forward Tilt",
+      "name":"",
+      "damage":[
+        7
+      ],
+      "description":"A wheel kick. It can be angled. Very quick and good for getting opponents off of Mario due to its high base knockback, and angling it down enables it to hit ledge hangs, but it's weak and situational, as it cannot KO until 200% or even lock.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/5/51/MarioFTiltSSBU.gif/500px-MarioFTiltSSBU.gif"
+    },
+    {
+      "fighter":"Link",
+      "input":"Up Tilt",
+      "name":"",
+      "damage":[
+        5.5
+      ],
+      "description":"A spinning jumping uppercut. Effective for comboing into itself at low percents, and into aerial attacks from mid to high percents; however, the former combo can be escaped with the proper combination of DI and SDI, and can be punished on hit at very low percents. Unlike in SSB4, the move's altered animation results in the hitbox being positioned fairly high to the ground on the first frame it is active, creating a blindspot and making it fairly difficult or even impossible to hit shorter or crouching characters with the move. It appears to be based on the second hit of the Mega Glove's combo from Super Mario RPG: Legend of the Seven Stars.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/5/5d/MarioFTiltUpSSBU.gif/500px-MarioFTiltUpSSBU.gif"
+    },
+    {
+      "fighter":"Link",
+      "input":"Down Tilt",
+      "name":"",
+      "damage":[
+        5,
+        7
+      ],
+      "description":"A leg sweep. A reliable combo starter that works at a wider range of percents than up tilt, at the cost of being less consistent due to its different hitboxes, and unable to combo into itself as effectively. It can also hit ledge hangs and combo off from ledge as well.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/0/0e/MarioFTiltDownSSBU.gif/500px-MarioFTiltDownSSBU.gif"
+    },
+    {
+      "fighter":"Link",
+      "input":"Dash Attack",
+      "name":"",
+      "damage":[
+        8,
+        6
+      ],
+      "description":"A baseball slide. Has a diagonal knockback angle, making its lingering hitbox useful for 2-framing certain opponents and punishing spot dodges. The new animation is more unfavorable in terms of hitbox placements. Very similar to the Slide Kick from Super Mario 64, and also similar to Mario's running turn animation in New Super Mario Bros.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/8/8e/MarioDashAttackSSBU.gif/500px-MarioDashAttackSSBU.gif"
+    },
+    {
+      "fighter":"Link",
+      "input":"Forward Smash",
+      "name":"",
+      "damage":[
+        17.8,
+        14.7
+      ],
+      "description":"Steps back and does a palm thrust that produces a small explosion. Though it is Mario's slowest ground attack, coming out on frame 15, it is among the quicker forward smashes and considered among the best in the game for several reasons: It is Mario's most powerful KO move when sweet spotted, KOing as low as 65% by the ledge, the fireball itself is disjointed, can be angled downwards or upwards to hit ledge hangs, and the start-up animation has Mario pull back his hurtbox deceptively far, inadvertently allowing him to avoid several attacks. However, the sweet spot is out prioritized by the sour spot.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/c/ca/MarioFSmashSSBU.gif/500px-MarioFSmashSSBU.gif"
+    },
+    {
+      "fighter":"Link",
+      "input":"Up Smash",
+      "name":"Lead Headbutt",
+      "damage":[
+        14
+      ],
+      "description":"An upward arcing headbutt. One of Mario's most reliable KO options. Its quick startup at frame 9 makes it a useful out of shield option, as well as being difficult to react to if the opponent is within its range. His head is intangible while its hitboxes are active, giving it pseudo-disjointed range. Its hitboxes reach behind Mario a good distance but do not reach as far in front of him, thus having trouble hitting short or crouching opponents in front of him. It has very fast interruptibility for its strength, at frame 40, and its damage output is also just enough to make it difficult for most characters to punish out of shield.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/2/2a/MarioUSmashSSBU.gif/500px-MarioUSmashSSBU.gif"
+    },
+    {
+      "fighter":"Link",
+      "input":"Down Smash",
+      "name":"",
+      "damage":[
+        10,
+        12
+      ],
+      "description":"The Sweep Kick from Super Mario 64. Mario does a breakdance kick that hits both sides. Mario's fastest smash attack, coming out as fast as all his tilts, and both hits semi-spike opponents, though the frontal hit is rather weak in comparison to the back hit. Also capable of hitting ledge hangs. The animation in Ultimate more closely resembles Mario's breakdance from Dance Dance Revolution: Mario Mix.",
+      "hitbox":"https://ssb.wiki.gallery/images/3/36/MarioDSmashSSBU.gif"
+    },
+    {
+      "fighter":"Link",
+      "input":"Neutral Aerial",
+      "name":"",
+      "damage":[
+        8,
+        5
+      ],
+      "description":"A flying kick. As a sex kick, it loses its average power after the first frames. It is useful for breaking out of combos due to its very fast startup (frame 3), and as a versatile horizontal combo extender, as well as for locking opponents. Autocancels in a short hop. Can combo into a tilt attack, up aerial, or grab at low percents if landing on the ground shortly after the hit, as well as boasting numerous KO confirms off the late hit at high percents. Very similar to the Jump Kick from Super Mario 64.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/4/40/MarioNAirSSBU.gif/500px-MarioNAirSSBU.gif"
+    },
+    {
+      "fighter":"Link",
+      "input":"Forward Aerial",
+      "name":"Meteor Knuckle",
+      "damage":[
+        12,
+        14,
+        10
+      ],
+      "description":"Rears back his fist and then throws an overhand. When hit clean, it is a meteor smash with enough knockback to KO under 45% offstage and has deceptively high combo potential. It has the slowest startup of his standard moveset (frame 16), high ending lag, and is Mario's only aerial that doesn't autocancel in a short hop. Other than lacking combo potential, the early and late hits are too weak to KO reliably.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/1/1d/MarioFAirSSBU.gif/500px-MarioFAirSSBU.gif"
+    },
+    {
+      "fighter":"Link",
+      "input":"Back Aerial",
+      "name":"",
+      "damage":[
+        10.5,
+        7
+      ],
+      "description":"A dropkick behind Mario. Has fast startup with low ending and landing lag, and more range than most of Mario's other aerials, making it an effective spacing tool and horizontal combo extender at low percents, as well as having the ability to pseudo Wall of Pain off stage. Also capable of killing at higher percents, and can be used twice in a short hop, or with neutral, up and down airs.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/1/15/MarioBAirSSBU.gif/500px-MarioBAirSSBU.gif"
+    },
+    {
+      "fighter":"Link",
+      "input":"Up Aerial",
+      "name":"",
+      "damage":[
+        7
+      ],
+      "description":"A bicycle kick. Has extremely fast startup (frame 4), consistent strength throughout the move and very low ending and landing lag, making it one of Mario's most versatile combo starters and extenders in his moveset. Can combo into itself easily until higher percents, and can kill off the top at high percents.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/3/3a/MarioUAirSSBU.gif/500px-MarioUAirSSBU.gif"
+    },
+    {
+      "fighter":"Link",
+      "input":"Down Aerial",
+      "name":"",
+      "damage":[
+        7
+      ],
+      "description":"Rapidly spins around, trapping opponents and damaging them with a series of discus clotheslines and spinning backfists before assuming a spread-eagle position to launch them. Possesses a rather low startup and ending lag, making the move reasonably safe to use barring its short range and lack of disjointed hitboxes. It also has a landing hitbox that combos reliably into tilts or a grab. However, opponents will occasionally break out of the move before the final hit, especially when Mario is moving quickly through the air. Useful as a combo finisher, combo breaker, and general damage-racking option, and can KO opponents deceptively well at high percentages. Resembles the Spin Jump, a technique that first appeared in Super Mario World.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/0/06/MarioDAirSSBU.gif/500px-MarioDAirSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Jab",
+      "name":"",
+      "damage":[
+        2.2,
+        1.7,
+        4
+      ],
+      "description":"The Punch + Punch + Kick combo from Super Mario 64: two punches followed by a jumping kick. The first and second hits can lock, and the general speed of the move makes it good as a grounded combo breaker or quick punish tool, as the first hit comes out on frame 2.",
+      "hitbox":"https://ssb.wiki.gallery/images/0/07/MarioJab1SSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Forward Tilt",
+      "name":"",
+      "damage":[
+        7
+      ],
+      "description":"A wheel kick. It can be angled. Very quick and good for getting opponents off of Mario due to its high base knockback, and angling it down enables it to hit ledge hangs, but it's weak and situational, as it cannot KO until 200% or even lock.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/5/51/MarioFTiltSSBU.gif/500px-MarioFTiltSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Up Tilt",
+      "name":"",
+      "damage":[
+        5.5
+      ],
+      "description":"A spinning jumping uppercut. Effective for comboing into itself at low percents, and into aerial attacks from mid to high percents; however, the former combo can be escaped with the proper combination of DI and SDI, and can be punished on hit at very low percents. Unlike in SSB4, the move's altered animation results in the hitbox being positioned fairly high to the ground on the first frame it is active, creating a blindspot and making it fairly difficult or even impossible to hit shorter or crouching characters with the move. It appears to be based on the second hit of the Mega Glove's combo from Super Mario RPG: Legend of the Seven Stars.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/5/5d/MarioFTiltUpSSBU.gif/500px-MarioFTiltUpSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Down Tilt",
+      "name":"",
+      "damage":[
+        5,
+        7
+      ],
+      "description":"A leg sweep. A reliable combo starter that works at a wider range of percents than up tilt, at the cost of being less consistent due to its different hitboxes, and unable to combo into itself as effectively. It can also hit ledge hangs and combo off from ledge as well.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/0/0e/MarioFTiltDownSSBU.gif/500px-MarioFTiltDownSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Dash Attack",
+      "name":"",
+      "damage":[
+        8,
+        6
+      ],
+      "description":"A baseball slide. Has a diagonal knockback angle, making its lingering hitbox useful for 2-framing certain opponents and punishing spot dodges. The new animation is more unfavorable in terms of hitbox placements. Very similar to the Slide Kick from Super Mario 64, and also similar to Mario's running turn animation in New Super Mario Bros.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/8/8e/MarioDashAttackSSBU.gif/500px-MarioDashAttackSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Forward Smash",
+      "name":"",
+      "damage":[
+        17.8,
+        14.7
+      ],
+      "description":"Steps back and does a palm thrust that produces a small explosion. Though it is Mario's slowest ground attack, coming out on frame 15, it is among the quicker forward smashes and considered among the best in the game for several reasons: It is Mario's most powerful KO move when sweet spotted, KOing as low as 65% by the ledge, the fireball itself is disjointed, can be angled downwards or upwards to hit ledge hangs, and the start-up animation has Mario pull back his hurtbox deceptively far, inadvertently allowing him to avoid several attacks. However, the sweet spot is out prioritized by the sour spot.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/c/ca/MarioFSmashSSBU.gif/500px-MarioFSmashSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Up Smash",
+      "name":"Lead Headbutt",
+      "damage":[
+        14
+      ],
+      "description":"An upward arcing headbutt. One of Mario's most reliable KO options. Its quick startup at frame 9 makes it a useful out of shield option, as well as being difficult to react to if the opponent is within its range. His head is intangible while its hitboxes are active, giving it pseudo-disjointed range. Its hitboxes reach behind Mario a good distance but do not reach as far in front of him, thus having trouble hitting short or crouching opponents in front of him. It has very fast interruptibility for its strength, at frame 40, and its damage output is also just enough to make it difficult for most characters to punish out of shield.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/2/2a/MarioUSmashSSBU.gif/500px-MarioUSmashSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Down Smash",
+      "name":"",
+      "damage":[
+        10,
+        12
+      ],
+      "description":"The Sweep Kick from Super Mario 64. Mario does a breakdance kick that hits both sides. Mario's fastest smash attack, coming out as fast as all his tilts, and both hits semi-spike opponents, though the frontal hit is rather weak in comparison to the back hit. Also capable of hitting ledge hangs. The animation in Ultimate more closely resembles Mario's breakdance from Dance Dance Revolution: Mario Mix.",
+      "hitbox":"https://ssb.wiki.gallery/images/3/36/MarioDSmashSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Neutral Aerial",
+      "name":"",
+      "damage":[
+        8,
+        5
+      ],
+      "description":"A flying kick. As a sex kick, it loses its average power after the first frames. It is useful for breaking out of combos due to its very fast startup (frame 3), and as a versatile horizontal combo extender, as well as for locking opponents. Autocancels in a short hop. Can combo into a tilt attack, up aerial, or grab at low percents if landing on the ground shortly after the hit, as well as boasting numerous KO confirms off the late hit at high percents. Very similar to the Jump Kick from Super Mario 64.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/4/40/MarioNAirSSBU.gif/500px-MarioNAirSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Forward Aerial",
+      "name":"Meteor Knuckle",
+      "damage":[
+        12,
+        14,
+        10
+      ],
+      "description":"Rears back his fist and then throws an overhand. When hit clean, it is a meteor smash with enough knockback to KO under 45% offstage and has deceptively high combo potential. It has the slowest startup of his standard moveset (frame 16), high ending lag, and is Mario's only aerial that doesn't autocancel in a short hop. Other than lacking combo potential, the early and late hits are too weak to KO reliably.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/1/1d/MarioFAirSSBU.gif/500px-MarioFAirSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Back Aerial",
+      "name":"",
+      "damage":[
+        10.5,
+        7
+      ],
+      "description":"A dropkick behind Mario. Has fast startup with low ending and landing lag, and more range than most of Mario's other aerials, making it an effective spacing tool and horizontal combo extender at low percents, as well as having the ability to pseudo Wall of Pain off stage. Also capable of killing at higher percents, and can be used twice in a short hop, or with neutral, up and down airs.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/1/15/MarioBAirSSBU.gif/500px-MarioBAirSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Up Aerial",
+      "name":"",
+      "damage":[
+        7
+      ],
+      "description":"A bicycle kick. Has extremely fast startup (frame 4), consistent strength throughout the move and very low ending and landing lag, making it one of Mario's most versatile combo starters and extenders in his moveset. Can combo into itself easily until higher percents, and can kill off the top at high percents.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/3/3a/MarioUAirSSBU.gif/500px-MarioUAirSSBU.gif"
+    },
+    {
+      "fighter":"Samus",
+      "input":"Down Aerial",
+      "name":"",
+      "damage":[
+        7
+      ],
+      "description":"Rapidly spins around, trapping opponents and damaging them with a series of discus clotheslines and spinning backfists before assuming a spread-eagle position to launch them. Possesses a rather low startup and ending lag, making the move reasonably safe to use barring its short range and lack of disjointed hitboxes. It also has a landing hitbox that combos reliably into tilts or a grab. However, opponents will occasionally break out of the move before the final hit, especially when Mario is moving quickly through the air. Useful as a combo finisher, combo breaker, and general damage-racking option, and can KO opponents deceptively well at high percentages. Resembles the Spin Jump, a technique that first appeared in Super Mario World.",
+      "hitbox":"https://ssb.wiki.gallery/images/thumb/0/06/MarioDAirSSBU.gif/500px-MarioDAirSSBU.gif"
     }
-  },
-  {
-    "name":"Link",
-    "series":"The Legend of Zelda",
-    "image":"https://static1.srcdn.com/wordpress/wp-content/uploads/2021/05/The-Legend-of-Zelda-Breath-of-the-Wild-Who-Are-The-Zonai.jpg",
-    "moves":{
-      "moveList":[
-        {
-          "input":"Jab",
-          "name":"",
-          "damage":[
-            2.2,
-            1.7,
-            4
-          ],
-          "description":"The Punch + Punch + Kick combo from Super Mario 64: two punches followed by a jumping kick. The first and second hits can lock, and the general speed of the move makes it good as a grounded combo breaker or quick punish tool, as the first hit comes out on frame 2.",
-          "hitbox":"https://ssb.wiki.gallery/images/0/07/MarioJab1SSBU.gif"
-        },
-        {
-          "input":"Forward Tilt",
-          "name":"",
-          "damage":[
-            7
-          ],
-          "description":"A wheel kick. It can be angled. Very quick and good for getting opponents off of Mario due to its high base knockback, and angling it down enables it to hit ledge hangs, but it's weak and situational, as it cannot KO until 200% or even lock.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/5/51/MarioFTiltSSBU.gif/500px-MarioFTiltSSBU.gif"
-        },
-        {
-          "input":"Up Tilt",
-          "name":"",
-          "damage":[
-            5.5
-          ],
-          "description":"A spinning jumping uppercut. Effective for comboing into itself at low percents, and into aerial attacks from mid to high percents; however, the former combo can be escaped with the proper combination of DI and SDI, and can be punished on hit at very low percents. Unlike in SSB4, the move's altered animation results in the hitbox being positioned fairly high to the ground on the first frame it is active, creating a blindspot and making it fairly difficult or even impossible to hit shorter or crouching characters with the move. It appears to be based on the second hit of the Mega Glove's combo from Super Mario RPG: Legend of the Seven Stars.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/5/5d/MarioFTiltUpSSBU.gif/500px-MarioFTiltUpSSBU.gif"
-        },
-        {
-          "input":"Down Tilt",
-          "name":"",
-          "damage":[
-            5,
-            7
-          ],
-          "description":"A leg sweep. A reliable combo starter that works at a wider range of percents than up tilt, at the cost of being less consistent due to its different hitboxes, and unable to combo into itself as effectively. It can also hit ledge hangs and combo off from ledge as well.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/0/0e/MarioFTiltDownSSBU.gif/500px-MarioFTiltDownSSBU.gif"
-        },
-        {
-          "input":"Dash Attack",
-          "name":"",
-          "damage":[
-            8,
-            6
-          ],
-          "description":"A baseball slide. Has a diagonal knockback angle, making its lingering hitbox useful for 2-framing certain opponents and punishing spot dodges. The new animation is more unfavorable in terms of hitbox placements. Very similar to the Slide Kick from Super Mario 64, and also similar to Mario's running turn animation in New Super Mario Bros.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/8/8e/MarioDashAttackSSBU.gif/500px-MarioDashAttackSSBU.gif"
-        },
-        {
-          "input":"Forward Smash",
-          "name":"",
-          "damage":[
-            17.8,
-            14.7
-          ],
-          "description":"Steps back and does a palm thrust that produces a small explosion. Though it is Mario's slowest ground attack, coming out on frame 15, it is among the quicker forward smashes and considered among the best in the game for several reasons: It is Mario's most powerful KO move when sweet spotted, KOing as low as 65% by the ledge, the fireball itself is disjointed, can be angled downwards or upwards to hit ledge hangs, and the start-up animation has Mario pull back his hurtbox deceptively far, inadvertently allowing him to avoid several attacks. However, the sweet spot is out prioritized by the sour spot.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/c/ca/MarioFSmashSSBU.gif/500px-MarioFSmashSSBU.gif"
-        },
-        {
-          "input":"Up Smash",
-          "name":"Lead Headbutt",
-          "damage":[
-            14
-          ],
-          "description":"An upward arcing headbutt. One of Mario's most reliable KO options. Its quick startup at frame 9 makes it a useful out of shield option, as well as being difficult to react to if the opponent is within its range. His head is intangible while its hitboxes are active, giving it pseudo-disjointed range. Its hitboxes reach behind Mario a good distance but do not reach as far in front of him, thus having trouble hitting short or crouching opponents in front of him. It has very fast interruptibility for its strength, at frame 40, and its damage output is also just enough to make it difficult for most characters to punish out of shield.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/2/2a/MarioUSmashSSBU.gif/500px-MarioUSmashSSBU.gif"
-        },
-        {
-          "input":"Down Smash",
-          "name":"",
-          "damage":[
-            10,
-            12
-          ],
-          "description":"The Sweep Kick from Super Mario 64. Mario does a breakdance kick that hits both sides. Mario's fastest smash attack, coming out as fast as all his tilts, and both hits semi-spike opponents, though the frontal hit is rather weak in comparison to the back hit. Also capable of hitting ledge hangs. The animation in Ultimate more closely resembles Mario's breakdance from Dance Dance Revolution: Mario Mix.",
-          "hitbox":"https://ssb.wiki.gallery/images/3/36/MarioDSmashSSBU.gif"
-        },
-        {
-          "input":"Neutral Aerial",
-          "name":"",
-          "damage":[
-            8,
-            5
-          ],
-          "description":"A flying kick. As a sex kick, it loses its average power after the first frames. It is useful for breaking out of combos due to its very fast startup (frame 3), and as a versatile horizontal combo extender, as well as for locking opponents. Autocancels in a short hop. Can combo into a tilt attack, up aerial, or grab at low percents if landing on the ground shortly after the hit, as well as boasting numerous KO confirms off the late hit at high percents. Very similar to the Jump Kick from Super Mario 64.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/4/40/MarioNAirSSBU.gif/500px-MarioNAirSSBU.gif"
-        },
-        {
-          "input":"Forward Aerial",
-          "name":"Meteor Knuckle",
-          "damage":[
-            12,
-            14,
-            10
-          ],
-          "description":"Rears back his fist and then throws an overhand. When hit clean, it is a meteor smash with enough knockback to KO under 45% offstage and has deceptively high combo potential. It has the slowest startup of his standard moveset (frame 16), high ending lag, and is Mario's only aerial that doesn't autocancel in a short hop. Other than lacking combo potential, the early and late hits are too weak to KO reliably.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/1/1d/MarioFAirSSBU.gif/500px-MarioFAirSSBU.gif"
-        },
-        {
-          "input":"Back Aerial",
-          "name":"",
-          "damage":[
-            10.5,
-            7
-          ],
-          "description":"A dropkick behind Mario. Has fast startup with low ending and landing lag, and more range than most of Mario's other aerials, making it an effective spacing tool and horizontal combo extender at low percents, as well as having the ability to pseudo Wall of Pain off stage. Also capable of killing at higher percents, and can be used twice in a short hop, or with neutral, up and down airs.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/1/15/MarioBAirSSBU.gif/500px-MarioBAirSSBU.gif"
-        },
-        {
-          "input":"Up Aerial",
-          "name":"",
-          "damage":[
-            7
-          ],
-          "description":"A bicycle kick. Has extremely fast startup (frame 4), consistent strength throughout the move and very low ending and landing lag, making it one of Mario's most versatile combo starters and extenders in his moveset. Can combo into itself easily until higher percents, and can kill off the top at high percents.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/3/3a/MarioUAirSSBU.gif/500px-MarioUAirSSBU.gif"
-        },
-        {
-          "input":"Down Aerial",
-          "name":"",
-          "damage":[
-            7
-          ],
-          "description":"Rapidly spins around, trapping opponents and damaging them with a series of discus clotheslines and spinning backfists before assuming a spread-eagle position to launch them. Possesses a rather low startup and ending lag, making the move reasonably safe to use barring its short range and lack of disjointed hitboxes. It also has a landing hitbox that combos reliably into tilts or a grab. However, opponents will occasionally break out of the move before the final hit, especially when Mario is moving quickly through the air. Useful as a combo finisher, combo breaker, and general damage-racking option, and can KO opponents deceptively well at high percentages. Resembles the Spin Jump, a technique that first appeared in Super Mario World.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/0/06/MarioDAirSSBU.gif/500px-MarioDAirSSBU.gif"
-        }
-      ]
-    }
-  },
-  {
-    "name":"Samus",
-    "series":"Metroid",
-    "image":"https://static.wikia.nocookie.net/smashtopia/images/5/5e/Samus-1.png/revision/latest/scale-to-width-down/1000?cb=20201222203410",
-    "moves":{
-      "moveList":[
-        {
-          "input":"Jab",
-          "name":"",
-          "damage":[
-            2.2,
-            1.7,
-            4
-          ],
-          "description":"The Punch + Punch + Kick combo from Super Mario 64: two punches followed by a jumping kick. The first and second hits can lock, and the general speed of the move makes it good as a grounded combo breaker or quick punish tool, as the first hit comes out on frame 2.",
-          "hitbox":"https://ssb.wiki.gallery/images/0/07/MarioJab1SSBU.gif"
-        },
-        {
-          "input":"Forward Tilt",
-          "name":"",
-          "damage":[
-            7
-          ],
-          "description":"A wheel kick. It can be angled. Very quick and good for getting opponents off of Mario due to its high base knockback, and angling it down enables it to hit ledge hangs, but it's weak and situational, as it cannot KO until 200% or even lock.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/5/51/MarioFTiltSSBU.gif/500px-MarioFTiltSSBU.gif"
-        },
-        {
-          "input":"Up Tilt",
-          "name":"",
-          "damage":[
-            5.5
-          ],
-          "description":"A spinning jumping uppercut. Effective for comboing into itself at low percents, and into aerial attacks from mid to high percents; however, the former combo can be escaped with the proper combination of DI and SDI, and can be punished on hit at very low percents. Unlike in SSB4, the move's altered animation results in the hitbox being positioned fairly high to the ground on the first frame it is active, creating a blindspot and making it fairly difficult or even impossible to hit shorter or crouching characters with the move. It appears to be based on the second hit of the Mega Glove's combo from Super Mario RPG: Legend of the Seven Stars.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/5/5d/MarioFTiltUpSSBU.gif/500px-MarioFTiltUpSSBU.gif"
-        },
-        {
-          "input":"Down Tilt",
-          "name":"",
-          "damage":[
-            5,
-            7
-          ],
-          "description":"A leg sweep. A reliable combo starter that works at a wider range of percents than up tilt, at the cost of being less consistent due to its different hitboxes, and unable to combo into itself as effectively. It can also hit ledge hangs and combo off from ledge as well.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/0/0e/MarioFTiltDownSSBU.gif/500px-MarioFTiltDownSSBU.gif"
-        },
-        {
-          "input":"Dash Attack",
-          "name":"",
-          "damage":[
-            8,
-            6
-          ],
-          "description":"A baseball slide. Has a diagonal knockback angle, making its lingering hitbox useful for 2-framing certain opponents and punishing spot dodges. The new animation is more unfavorable in terms of hitbox placements. Very similar to the Slide Kick from Super Mario 64, and also similar to Mario's running turn animation in New Super Mario Bros.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/8/8e/MarioDashAttackSSBU.gif/500px-MarioDashAttackSSBU.gif"
-        },
-        {
-          "input":"Forward Smash",
-          "name":"",
-          "damage":[
-            17.8,
-            14.7
-          ],
-          "description":"Steps back and does a palm thrust that produces a small explosion. Though it is Mario's slowest ground attack, coming out on frame 15, it is among the quicker forward smashes and considered among the best in the game for several reasons: It is Mario's most powerful KO move when sweet spotted, KOing as low as 65% by the ledge, the fireball itself is disjointed, can be angled downwards or upwards to hit ledge hangs, and the start-up animation has Mario pull back his hurtbox deceptively far, inadvertently allowing him to avoid several attacks. However, the sweet spot is out prioritized by the sour spot.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/c/ca/MarioFSmashSSBU.gif/500px-MarioFSmashSSBU.gif"
-        },
-        {
-          "input":"Up Smash",
-          "name":"Lead Headbutt",
-          "damage":[
-            14
-          ],
-          "description":"An upward arcing headbutt. One of Mario's most reliable KO options. Its quick startup at frame 9 makes it a useful out of shield option, as well as being difficult to react to if the opponent is within its range. His head is intangible while its hitboxes are active, giving it pseudo-disjointed range. Its hitboxes reach behind Mario a good distance but do not reach as far in front of him, thus having trouble hitting short or crouching opponents in front of him. It has very fast interruptibility for its strength, at frame 40, and its damage output is also just enough to make it difficult for most characters to punish out of shield.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/2/2a/MarioUSmashSSBU.gif/500px-MarioUSmashSSBU.gif"
-        },
-        {
-          "input":"Down Smash",
-          "name":"",
-          "damage":[
-            10,
-            12
-          ],
-          "description":"The Sweep Kick from Super Mario 64. Mario does a breakdance kick that hits both sides. Mario's fastest smash attack, coming out as fast as all his tilts, and both hits semi-spike opponents, though the frontal hit is rather weak in comparison to the back hit. Also capable of hitting ledge hangs. The animation in Ultimate more closely resembles Mario's breakdance from Dance Dance Revolution: Mario Mix.",
-          "hitbox":"https://ssb.wiki.gallery/images/3/36/MarioDSmashSSBU.gif"
-        },
-        {
-          "input":"Neutral Aerial",
-          "name":"",
-          "damage":[
-            8,
-            5
-          ],
-          "description":"A flying kick. As a sex kick, it loses its average power after the first frames. It is useful for breaking out of combos due to its very fast startup (frame 3), and as a versatile horizontal combo extender, as well as for locking opponents. Autocancels in a short hop. Can combo into a tilt attack, up aerial, or grab at low percents if landing on the ground shortly after the hit, as well as boasting numerous KO confirms off the late hit at high percents. Very similar to the Jump Kick from Super Mario 64.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/4/40/MarioNAirSSBU.gif/500px-MarioNAirSSBU.gif"
-        },
-        {
-          "input":"Forward Aerial",
-          "name":"Meteor Knuckle",
-          "damage":[
-            12,
-            14,
-            10
-          ],
-          "description":"Rears back his fist and then throws an overhand. When hit clean, it is a meteor smash with enough knockback to KO under 45% offstage and has deceptively high combo potential. It has the slowest startup of his standard moveset (frame 16), high ending lag, and is Mario's only aerial that doesn't autocancel in a short hop. Other than lacking combo potential, the early and late hits are too weak to KO reliably.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/1/1d/MarioFAirSSBU.gif/500px-MarioFAirSSBU.gif"
-        },
-        {
-          "input":"Back Aerial",
-          "name":"",
-          "damage":[
-            10.5,
-            7
-          ],
-          "description":"A dropkick behind Mario. Has fast startup with low ending and landing lag, and more range than most of Mario's other aerials, making it an effective spacing tool and horizontal combo extender at low percents, as well as having the ability to pseudo Wall of Pain off stage. Also capable of killing at higher percents, and can be used twice in a short hop, or with neutral, up and down airs.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/1/15/MarioBAirSSBU.gif/500px-MarioBAirSSBU.gif"
-        },
-        {
-          "input":"Up Aerial",
-          "name":"",
-          "damage":[
-            7
-          ],
-          "description":"A bicycle kick. Has extremely fast startup (frame 4), consistent strength throughout the move and very low ending and landing lag, making it one of Mario's most versatile combo starters and extenders in his moveset. Can combo into itself easily until higher percents, and can kill off the top at high percents.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/3/3a/MarioUAirSSBU.gif/500px-MarioUAirSSBU.gif"
-        },
-        {
-          "input":"Down Aerial",
-          "name":"",
-          "damage":[
-            7
-          ],
-          "description":"Rapidly spins around, trapping opponents and damaging them with a series of discus clotheslines and spinning backfists before assuming a spread-eagle position to launch them. Possesses a rather low startup and ending lag, making the move reasonably safe to use barring its short range and lack of disjointed hitboxes. It also has a landing hitbox that combos reliably into tilts or a grab. However, opponents will occasionally break out of the move before the final hit, especially when Mario is moving quickly through the air. Useful as a combo finisher, combo breaker, and general damage-racking option, and can KO opponents deceptively well at high percentages. Resembles the Spin Jump, a technique that first appeared in Super Mario World.",
-          "hitbox":"https://ssb.wiki.gallery/images/thumb/0/06/MarioDAirSSBU.gif/500px-MarioDAirSSBU.gif"
-        }
-      ]
-    }
-  } 
-]
+  ]
 }
