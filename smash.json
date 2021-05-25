@@ -1,5 +1,5 @@
 {
-  "timestamp": ["1621898239750"],
+  "timestamp": ["1621917639224"],
   "fighters":[
     {
       "name":"Mario",
@@ -752,21 +752,24 @@
       "input":"Floor attack (front)",
       "name":"",
       "damage":"7%",
-      "description":"Performs a modified version of the Sweep Kick before getting up."
+      "description":"Performs a modified version of the Sweep Kick before getting up.",
+      "hitbox":"https://ssb.wiki.gallery/images/c/c4/LuigiGetupAttackFrontSSBU.gif"
     },
     {
       "fighter":"Luigi",
       "input":"Floor attack (back)",
       "name":"",
       "damage":"7%",
-      "description":"Performs a breakdancing kick before getting up."
+      "description":"Performs a breakdancing kick before getting up.",
+      "hitbox":"https://ssb.wiki.gallery/images/b/b8/LuigiGetupAttackDownSSBU.gif"
     },
     {
       "fighter":"Luigi",
       "input":"Floor attack (trip)",
       "name":"",
       "damage":"5%",
-      "description":"Performs a wheel kick while getting up."
+      "description":"Performs a wheel kick while getting up.",
+      "hitbox":"https://ssb.wiki.gallery/images/2/2c/LuigiTripAttackSSBU.gif"
     },
     {
       "fighter":"Luigi",
