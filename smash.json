@@ -1,197 +1,197 @@
 {
-  "timestamp": ["1621898239742"],
+  "timestamp": ["1621898239746"],
   "fighters":[
     {
       "name":"Mario",
       "series":"Super Mario Bros.",
-      "image":"https://www.smashbros.com/assets_v2/img/fighter/mario/main.png",
+      "image":"https://ssb.wiki.gallery/images/4/44/Mario_SSBU.png",
       "rank":1
     },
     {
       "name":"Luigi",
       "series":"Super Mario Bros.",
-      "image":"https://ssb.wiki.gallery/images/thumb/b/bb/Luigi_SSBU.png/250px-Luigi_SSBU.png",
+      "image":"https://ssb.wiki.gallery/images/b/bb/Luigi_SSBU.png",
       "rank":2
     },
     {
       "name":"Peach",
       "series":"Super Mario Bros.",
-      "image":"https://ssb.wiki.gallery/images/thumb/7/74/Peach_SSBU.png/250px-Peach_SSBU.png",
-      "rank":2
+      "image":"https://ssb.wiki.gallery/images/7/74/Peach_SSBU.png",
+      "rank":3
     },
     {
       "name":"Bowser",
       "series":"Super Mario Bros.",
-      "image":"",
-      "rank":2
+      "image":"https://ssb.wiki.gallery/images/4/49/Bowser_SSBU.png",
+      "rank":4
     },
     {
       "name":"Dr. Mario",
       "series":"Super Mario Bros.",
-      "image":"",
-      "rank":2
+      "image":"https://ssb.wiki.gallery/images/3/3f/Dr._Mario_SSBU.png",
+      "rank":5
     },
     {
       "name":"Rosalina & Palutena",
       "series":"Super Mario Bros.",
-      "image":"",
-      "rank":2
+      "image":"https://ssb.wiki.gallery/images/1/16/Rosalina_%26_Luma_SSBU.png",
+      "rank":6
     },
     {
       "name":"Bowser Jr.",
       "series":"Super Mario Bros.",
-      "image":"",
-      "rank":2
+      "image":"https://ssb.wiki.gallery/images/2/2b/Bowser_Jr._SSBU.png",
+      "rank":7
     },
     {
       "name":"Yoshi",
       "series":"Yoshi",
-      "image":"",
-      "rank":2
+      "image":"https://ssb.wiki.gallery/images/8/8d/Yoshi_SSBU.png",
+      "rank":8
     },
     {
       "name":"Donkey Kong",
       "series":"Donkey Kong",
-      "image":"",
-      "rank":2
+      "image":"https://ssb.wiki.gallery/images/c/c9/Donkey_Kong_SSBU.png",
+      "rank":9
     },
     {
       "name":"Diddy Kong",
       "series":"Donkey Kong",
-      "image":"",
-      "rank":2
+      "image":"https://ssb.wiki.gallery/images/a/a7/Diddy_Kong_SSBU.png",
+      "rank":10
     },
     {
       "name":"Link",
       "series":"The Legend of Zelda",
-      "image":"https://static1.srcdn.com/wordpress/wp-content/uploads/2021/05/The-Legend-of-Zelda-Breath-of-the-Wild-Who-Are-The-Zonai.jpg",
-      "rank":2
+      "image":"https://ssb.wiki.gallery/images/8/84/Link_SSBU.png",
+      "rank":11
     },
     {
       "name":"Zelda",
       "series":"The Legend of Zelda",
-      "image":"",
-      "rank":2
+      "image":"https://ssb.wiki.gallery/images/c/c8/Zelda_SSBU.png",
+      "rank":12
     },
     {
       "name":"Sheik",
       "series":"The Legend of Zelda",
-      "image":"",
-      "rank":2
+      "image":"https://ssb.wiki.gallery/images/0/00/Sheik_SSBU.png",
+      "rank":13
     },
     {
       "name":"Ganondorf",
       "series":"The Legend of Zelda",
-      "image":"",
-      "rank":2
+      "image":"https://ssb.wiki.gallery/images/9/91/Ganondorf_SSBU.png",
+      "rank":14
     },
     {
       "name":"Young Link",
       "series":"The Legend of Zelda",
-      "image":"",
-      "rank":2
+      "image":"https://ssb.wiki.gallery/images/8/8a/Young_Link_SSBU.png",
+      "rank":15
     },
     {
       "name":"Toon Link",
       "series":"The Legend of Zelda",
-      "image":"",
-      "rank":2
+      "image":"https://ssb.wiki.gallery/images/5/56/Toon_Link_SSBU.png",
+      "rank":16
     },
     {
       "name":"Samus",
       "series":"Metroid",
       "image":"https://static.wikia.nocookie.net/smashtopia/images/5/5e/Samus-1.png/revision/latest/scale-to-width-down/1000?cb=20201222203410",
-      "rank":2
+      "rank":17
     },
     {
       "name":"Zero Suit Samus",
       "series":"Metroid",
       "image":"",
-      "rank":2
+      "rank":18
     },
     {
       "name":"Kirby",
       "series":"Kirby",
       "image":"",
-      "rank":2
+      "rank":19
     },
     {
       "name":"Meta Knight",
       "series":"Kirby",
       "image":"",
-      "rank":2
+      "rank":20
     },
     {
       "name":"King Dedede",
       "series":"Kirby",
       "image":"",
-      "rank":2
+      "rank":21
     },
     {
       "name":"Fox",
       "series":"Star Fox",
       "image":"",
-      "rank":2
+      "rank":22
     },
     {
       "name":"Falco",
       "series":"Star Fox",
       "image":"",
-      "rank":2
+      "rank":23
     },
     {
       "name":"Wolf",
       "series":"Star Fox",
       "image":"",
-      "rank":2
+      "rank":24
     },
     {
       "name":"Pikachu",
       "series":"Pokémon",
       "image":"",
-      "rank":2
+      "rank":25
     },
     {
       "name":"Jigglypuff",
       "series":"Pokémon",
       "image":"",
-      "rank":2
+      "rank":26
     },
     {
       "name":"Mewtwo",
       "series":"Pokémon",
       "image":"",
-      "rank":2
+      "rank":27
     },
     {
       "name":"Pichu",
       "series":"Pokémon",
       "image":"",
-      "rank":2
+      "rank":28
     },
     {
       "name":"Squirtle",
       "series":"Pokémon",
       "image":"",
-      "rank":2
+      "rank":29
     },
     {
       "name":"Ivysaur",
       "series":"Pokémon",
       "image":"",
-      "rank":2
+      "rank":30
     },
     {
       "name":"Charizard",
       "series":"Pokémon",
       "image":"",
-      "rank":2
+      "rank":31
     },
     {
       "name":"Lucario",
       "series":"Pokémon",
       "image":"",
-      "rank":2
+      "rank":32
     },
     {
       "name":"Greninja",
@@ -203,169 +203,169 @@
       "name":"Captain Falcon",
       "series":"F-Zero",
       "image":"",
-      "rank":2
+      "rank":33
     },
     {
       "name":"Ness",
       "series":"EarthBound",
       "image":"",
-      "rank":2
+      "rank":34
     },
     {
       "name":"Lucas",
       "series":"EarthBound",
       "image":"",
-      "rank":2
+      "rank":35
     },
     {
       "name":"Ice Climbers",
       "series":"Ice Climber",
       "image":"",
-      "rank":2
+      "rank":36
     },
     {
       "name":"Marth",
       "series":"Fire Emblem",
       "image":"",
-      "rank":2
+      "rank":37
     },
     {
       "name":"Roy",
       "series":"Fire Emblem",
       "image":"",
-      "rank":2
+      "rank":38
     },
     {
       "name":"Ike",
       "series":"Fire Emblem",
       "image":"",
-      "rank":2
+      "rank":39
     },
     {
       "name":"Robin",
       "series":"Fire Emblem",
       "image":"",
-      "rank":2
+      "rank":40
     },
     {
       "name":"Lucina",
       "series":"Fire Emblem",
       "image":"",
-      "rank":2
+      "rank":41
     },
     {
       "name":"Corrin",
       "series":"Fire Emblem",
       "image":"",
-      "rank":2
+      "rank":42
     },
     {
       "name":"Mr. Game & Watch",
       "series":"Game & Watch",
       "image":"",
-      "rank":2
+      "rank":43
     },
     {
       "name":"Pit",
       "series":"Kid Icarus",
       "image":"",
-      "rank":2
+      "rank":44
     },
     {
       "name":"Palutena",
       "series":"Kid Icarus",
       "image":"",
-      "rank":2
+      "rank":45
     },
     {
       "name":"Dark Pit",
       "series":"Kid Icarus",
       "image":"",
-      "rank":2
+      "rank":46
     },
     {
       "name":"Wario",
       "series":"Wario",
       "image":"",
-      "rank":2
+      "rank":47
     },
     {
       "name":"R.O.B.",
       "series":"R.O.B.",
       "image":"",
-      "rank":2
+      "rank":49
     },
     {
       "name":"Villager",
       "series":"Animal crossing",
       "image":"",
-      "rank":2
+      "rank":50
     },
     {
       "name":"Little Mac",
       "series":"Punch-Out",
       "image":"",
-      "rank":2
+      "rank":51
     },
     {
       "name":"Wii Fit Trainer",
       "series":"Wii Fit",
       "image":"",
-      "rank":2
+      "rank":52
     },
     {
       "name":"Shulk",
       "series":"Xenoblade Chronicles",
       "image":"",
-      "rank":2
+      "rank":53
     },
     {
       "name":"Duck Hunt",
       "series":"Duck Hunt",
       "image":"",
-      "rank":2
+      "rank":54
     },
     {
       "name":"Snake",
       "series":"Metal Gear",
       "image":"",
-      "rank":2
+      "rank":55
     },
     {
       "name":"Sonic",
       "series":"Sonic the Hedgehog",
       "image":"",
-      "rank":2
+      "rank":56
     },
     {
       "name":"Mega Man",
       "series":"Mega Man",
       "image":"",
-      "rank":2
+      "rank":57
     },
     {
       "name":"Pac-Man",
       "series":"Pac-Man",
       "image":"",
-      "rank":2
+      "rank":58
     },
     {
       "name":"Ryu",
       "series":"Street Fighter",
       "image":"",
-      "rank":2
+      "rank":59
     },
     {
       "name":"Cloud",
       "series":"Final Fantasy",
       "image":"",
-      "rank":2
+      "rank":60
     },
     {
       "name":"Bayonetta",
       "series":"Bayonetta",
       "image":"",
-      "rank":2
+      "rank":61
     }
   ],
   "moves":[
