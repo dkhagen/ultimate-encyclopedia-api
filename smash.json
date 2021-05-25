@@ -774,7 +774,7 @@
       "name":"",
       "damage":"9%",
       "description":"Performs a double-footed legsweep while climbing up.",
-      "https://ssb.wiki.gallery/images/thumb/1/1e/LuigiLedgeAttackSSBU.gif/500px-LuigiLedgeAttackSSBU.gif"
+      "hitbox": "https://ssb.wiki.gallery/images/thumb/1/1e/LuigiLedgeAttackSSBU.gif/500px-LuigiLedgeAttackSSBU.gif"
     },
     {
       "fighter":"Luigi",
