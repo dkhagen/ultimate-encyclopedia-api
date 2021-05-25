@@ -1,10 +1,10 @@
 {
-  "timestamp": ["1621898239741"],
+  "timestamp": ["1621898239742"],
   "fighters":[
     {
       "name":"Mario",
       "series":"Super Mario Bros.",
-      "image":"https://ssb.wiki.gallery/images/thumb/4/44/Mario_SSBU.png/250px-Mario_SSBU.png",
+      "image":"https://www.smashbros.com/assets_v2/img/fighter/mario/main.png",
       "rank":1
     },
     {
