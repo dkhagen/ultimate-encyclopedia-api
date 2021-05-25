@@ -1,22 +1,22 @@
 {
-  "timestamp": ["1621898239740"],
+  "timestamp": ["1621898239741"],
   "fighters":[
     {
       "name":"Mario",
       "series":"Super Mario Bros.",
-      "image":"https://ssb.wiki.gallery/images/thumb/4/44/Mario_SSBU.png/100px-Mario_SSBU.png",
+      "image":"https://ssb.wiki.gallery/images/thumb/4/44/Mario_SSBU.png/250px-Mario_SSBU.png",
       "rank":1
     },
     {
       "name":"Luigi",
       "series":"Super Mario Bros.",
-      "image":"https://ssb.wiki.gallery/images/thumb/b/bb/Luigi_SSBU.png/91px-Luigi_SSBU.png",
+      "image":"https://ssb.wiki.gallery/images/thumb/b/bb/Luigi_SSBU.png/250px-Luigi_SSBU.png",
       "rank":2
     },
     {
       "name":"Peach",
       "series":"Super Mario Bros.",
-      "image":"",
+      "image":"https://ssb.wiki.gallery/images/thumb/7/74/Peach_SSBU.png/250px-Peach_SSBU.png",
       "rank":2
     },
     {
