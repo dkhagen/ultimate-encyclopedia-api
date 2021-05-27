@@ -1,5 +1,5 @@
 {
-  "timestamp": ["1621917639229"],
+  "timestamp": ["1621917639230"],
   "fighters":[
     {
       "name":"Mario",
@@ -11,343 +11,343 @@
       "name":"Luigi",
       "series":"Super Mario Bros.",
       "image":"https://ssb.wiki.gallery/images/thumb/b/bb/Luigi_SSBU.png/1200px-Luigi_SSBU.png",
-      "rank":2
+      "rank":9
     },
     {
-      "name":"Peach Peach",
+      "name":"Peach",
       "series":"Super Mario Bros.",
       "image":"https://ssb.wiki.gallery/images/thumb/7/74/Peach_SSBU.png/1200px-Peach_SSBU.png",
-      "rank":3
+      "rank":13
     },
     {
       "name":"Bowser",
       "series":"Super Mario Bros.",
       "image":"https://ssb.wiki.gallery/images/thumb/4/49/Bowser_SSBU.png/1600px-Bowser_SSBU.png",
-      "rank":4
+      "rank":14
     },
     {
       "name":"Dr. Mario",
       "series":"Super Mario Bros.",
       "image":"https://ssb.wiki.gallery/images/thumb/3/3f/Dr._Mario_SSBU.png/1600px-Dr._Mario_SSBU.png",
-      "rank":5
+      "rank":18
     },
     {
-      "name":"Rosalina & Palutena",
+      "name":"Rosalina & Luma",
       "series":"Super Mario Bros.",
       "image":"https://ssb.wiki.gallery/images/thumb/1/16/Rosalina_%26_Luma_SSBU.png/1600px-Rosalina_%26_Luma_SSBU.png",
-      "rank":6
+      "rank":48
     },
     {
       "name":"Bowser Jr.",
       "series":"Super Mario Bros.",
       "image":"https://ssb.wiki.gallery/images/thumb/2/2b/Bowser_Jr._SSBU.png/1600px-Bowser_Jr._SSBU.png",
-      "rank":7
+      "rank":58
     },
     {
       "name":"Yoshi",
       "series":"Yoshi",
       "image":"https://ssb.wiki.gallery/images/thumb/8/8d/Yoshi_SSBU.png/1600px-Yoshi_SSBU.png",
-      "rank":8
+      "rank":5
     },
     {
       "name":"Donkey Kong",
       "series":"Donkey Kong",
       "image":"https://ssb.wiki.gallery/images/thumb/c/c9/Donkey_Kong_SSBU.png/1600px-Donkey_Kong_SSBU.png",
-      "rank":9
+      "rank":2
     },
     {
       "name":"Diddy Kong",
       "series":"Donkey Kong",
       "image":"https://ssb.wiki.gallery/images/thumb/a/a7/Diddy_Kong_SSBU.png/1200px-Diddy_Kong_SSBU.png",
-      "rank":10
+      "rank":36
     },
     {
       "name":"Link",
       "series":"The Legend of Zelda",
       "image":"https://ssb.wiki.gallery/images/thumb/8/84/Link_SSBU.png/1600px-Link_SSBU.png",
-      "rank":11
+      "rank":3
     },
     {
       "name":"Zelda",
       "series":"The Legend of Zelda",
       "image":"https://ssb.wiki.gallery/images/thumb/c/c8/Zelda_SSBU.png/1600px-Zelda_SSBU.png",
-      "rank":12
+      "rank":17
     },
     {
       "name":"Sheik",
       "series":"The Legend of Zelda",
       "image":"https://ssb.wiki.gallery/images/thumb/0/00/Sheik_SSBU.png/1600px-Sheik_SSBU.png",
-      "rank":13
+      "rank":16
     },
     {
       "name":"Ganondorf",
       "series":"The Legend of Zelda",
       "image":"https://ssb.wiki.gallery/images/thumb/9/91/Ganondorf_SSBU.png/1200px-Ganondorf_SSBU.png",
-      "rank":14
+      "rank":23
     },
     {
       "name":"Young Link",
       "series":"The Legend of Zelda",
       "image":"https://ssb.wiki.gallery/images/thumb/8/8a/Young_Link_SSBU.png/1600px-Young_Link_SSBU.png",
-      "rank":15
+      "rank":22
     },
     {
       "name":"Toon Link",
       "series":"The Legend of Zelda",
       "image":"https://ssb.wiki.gallery/images/thumb/5/56/Toon_Link_SSBU.png/1200px-Toon_Link_SSBU.png",
-      "rank":16
+      "rank":43
     },
     {
       "name":"Samus",
       "series":"Metroid",
       "image":"https://ssb.wiki.gallery/images/thumb/0/03/Samus_SSBU.png/1600px-Samus_SSBU.png",
-      "rank":17
+      "rank":4
     },
     {
       "name":"Zero Suit Samus",
       "series":"Metroid",
       "image":"https://ssb.wiki.gallery/images/thumb/f/f0/Zero_Suit_Samus_SSBU.png/1600px-Zero_Suit_Samus_SSBU.png",
-      "rank":18
+      "rank":29
     },
     {
       "name":"Kirby",
       "series":"Kirby",
       "image":"https://ssb.wiki.gallery/images/thumb/0/07/Kirby_SSBU.png/1600px-Kirby_SSBU.png",
-      "rank":19
+      "rank":6
     },
     {
       "name":"Meta Knight",
       "series":"Kirby",
       "image":"https://ssb.wiki.gallery/images/thumb/0/00/Meta_Knight_SSBU.png/1600px-Meta_Knight_SSBU.png",
-      "rank":20
+      "rank":27
     },
     {
       "name":"King Dedede",
       "series":"Kirby",
       "image":"https://ssb.wiki.gallery/images/thumb/f/f5/King_Dedede_SSBU.png/1600px-King_Dedede_SSBU.png",
-      "rank":21
+      "rank":39
     },
     {
       "name":"Fox",
       "series":"Star Fox",
       "image":"https://ssb.wiki.gallery/images/thumb/2/2f/Fox_SSBU.png/1600px-Fox_SSBU.png",
-      "rank":22
+      "rank":7
     },
     {
       "name":"Falco",
       "series":"Star Fox",
       "image":"https://ssb.wiki.gallery/images/thumb/8/80/Falco_SSBU.png/1600px-Falco_SSBU.png",
-      "rank":23
+      "rank":20
     },
     {
       "name":"Wolf",
       "series":"Star Fox",
       "image":"https://ssb.wiki.gallery/images/thumb/8/8a/Wolf_SSBU.png/1600px-Wolf_SSBU.png",
-      "rank":24
+      "rank":44
     },
     {
       "name":"Pikachu",
       "series":"Pokémon",
       "image":"https://ssb.wiki.gallery/images/thumb/9/93/Pikachu_SSBU.png/1600px-Pikachu_SSBU.png",
-      "rank":25
+      "rank":8
     },
     {
       "name":"Jigglypuff",
       "series":"Pokémon",
       "image":"https://ssb.wiki.gallery/images/thumb/6/6a/Jigglypuff_SSBU.png/1600px-Jigglypuff_SSBU.png",
-      "rank":26
+      "rank":12
     },
     {
       "name":"Mewtwo",
       "series":"Pokémon",
       "image":"https://ssb.wiki.gallery/images/thumb/d/de/Mewtwo_SSBU.png/1200px-Mewtwo_SSBU.png",
-      "rank":27
+      "rank":24
     },
     {
       "name":"Pichu",
       "series":"Pokémon",
       "image":"https://ssb.wiki.gallery/images/thumb/c/c1/Pichu_SSBU.png/1600px-Pichu_SSBU.png",
-      "rank":28
+      "rank":19
     },
     {
       "name":"Squirtle",
       "series":"Pokémon",
       "image":"https://ssb.wiki.gallery/images/thumb/7/79/Squirtle_SSBU.png/1200px-Squirtle_SSBU.png",
-      "rank":29
+      "rank":33
     },
     {
       "name":"Ivysaur",
       "series":"Pokémon",
       "image":"https://ssb.wiki.gallery/images/5/52/Ivysaur_SSBU.png",
-      "rank":30
+      "rank":34
     },
     {
       "name":"Charizard",
       "series":"Pokémon",
       "image":"https://ssb.wiki.gallery/images/2/21/Charizard_SSBU.png",
-      "rank":31
+      "rank":35
     },
     {
       "name":"Lucario",
       "series":"Pokémon",
       "image":"https://ssb.wiki.gallery/images/thumb/0/08/Lucario_SSBU.png/1600px-Lucario_SSBU.png",
-      "rank":32
+      "rank":41
     },
     {
       "name":"Greninja",
       "series":"Pokémon",
       "image":"https://ssb.wiki.gallery/images/thumb/d/da/Greninja_SSBU.png/1600px-Greninja_SSBU.png",
-      "rank":33
+      "rank":50
     },
     {
       "name":"Captain Falcon",
       "series":"F-Zero",
       "image":"https://ssb.wiki.gallery/images/thumb/d/da/Captain_Falcon_SSBU.png/1600px-Captain_Falcon_SSBU.png",
-      "rank":34
+      "rank":11
     },
     {
       "name":"Ness",
       "series":"EarthBound",
       "image":"https://ssb.wiki.gallery/images/thumb/8/82/Ness_SSBU.png/1600px-Ness_SSBU.png",
-      "rank":35
+      "rank":10
     },
     {
       "name":"Lucas",
       "series":"EarthBound",
       "image":"https://ssb.wiki.gallery/images/thumb/8/81/Lucas_SSBU.png/1600px-Lucas_SSBU.png",
-      "rank":36
+      "rank":37
     },
     {
       "name":"Ice Climbers",
       "series":"Ice Climber",
       "image":"https://ssb.wiki.gallery/images/thumb/1/12/Ice_Climbers_SSBU.png/1600px-Ice_Climbers_SSBU.png",
-      "rank":37
+      "rank":15
     },
     {
       "name":"Marth",
       "series":"Fire Emblem",
       "image":"https://ssb.wiki.gallery/images/thumb/e/e9/Marth_SSBU.png/1600px-Marth_SSBU.png",
-      "rank":38
+      "rank":21
     },
     {
       "name":"Roy",
       "series":"Fire Emblem",
       "image":"https://ssb.wiki.gallery/images/thumb/9/9d/Roy_SSBU.png/1600px-Roy_SSBU.png",
-      "rank":39
+      "rank":25
     },
     {
       "name":"Ike",
       "series":"Fire Emblem",
       "image":"https://ssb.wiki.gallery/images/thumb/8/86/Ike_SSBU.png/1600px-Ike_SSBU.png",
-      "rank":40
+      "rank":32
     },
     {
       "name":"Robin",
       "series":"Fire Emblem",
       "image":"https://ssb.wiki.gallery/images/thumb/8/82/Robin_SSBU.png/1600px-Robin_SSBU.png",
-      "rank":41
+      "rank":56
     },
     {
       "name":"Lucina",
       "series":"Fire Emblem",
       "image":"https://ssb.wiki.gallery/images/thumb/d/dc/Lucina_SSBU.png/1600px-Lucina_SSBU.png",
-      "rank":42
+      "rank":21.5
     },
     {
       "name":"Corrin",
       "series":"Fire Emblem",
       "image":"https://ssb.wiki.gallery/images/thumb/c/c4/Corrin_SSBU.png/1600px-Corrin_SSBU.png",
-      "rank":43
+      "rank":62
     },
     {
       "name":"Mr. Game & Watch",
       "series":"Game & Watch",
       "image":"https://ssb.wiki.gallery/images/thumb/c/cb/Mr._Game_%26_Watch_SSBU.png/1600px-Mr._Game_%26_Watch_SSBU.png",
-      "rank":44
+      "rank":26
     },
     {
       "name":"Pit",
       "series":"Kid Icarus",
       "image":"https://ssb.wiki.gallery/images/thumb/3/38/Pit_SSBU.png/1600px-Pit_SSBU.png",
-      "rank":45
+      "rank":28
     },
     {
       "name":"Palutena",
       "series":"Kid Icarus",
       "image":"https://ssb.wiki.gallery/images/thumb/6/6b/Palutena_SSBU.png/1200px-Palutena_SSBU.png",
-      "rank":46
+      "rank":54
     },
     {
       "name":"Dark Pit",
       "series":"Kid Icarus",
       "image":"https://ssb.wiki.gallery/images/thumb/0/09/Dark_Pit_SSBU.png/1200px-Dark_Pit_SSBU.png",
-      "rank":47
+      "rank":28.5
     },
     {
       "name":"Wario",
       "series":"Wario",
       "image":"https://ssb.wiki.gallery/images/thumb/0/04/Wario_SSBU.png/1600px-Wario_SSBU.png",
-      "rank":48
+      "rank":30
     },
     {
       "name":"R.O.B.",
       "series":"R.O.B.",
       "image":"https://ssb.wiki.gallery/images/thumb/6/60/R.O.B._SSBU.png/1600px-R.O.B._SSBU.png",
-      "rank":50
+      "rank":42
     },
     {
       "name":"Villager",
       "series":"Animal crossing",
       "image":"https://ssb.wiki.gallery/images/thumb/a/ac/Villager_SSBU.png/1600px-Villager_SSBU.png",
-      "rank":51
+      "rank":45
     },
     {
       "name":"Little Mac",
       "series":"Punch-Out",
       "image":"https://ssb.wiki.gallery/images/thumb/5/53/Little_Mac_SSBU.png/1600px-Little_Mac_SSBU.png",
-      "rank":52
+      "rank":49
     },
     {
       "name":"Wii Fit Trainer",
       "series":"Wii Fit",
       "image":"https://ssb.wiki.gallery/images/thumb/f/ff/Wii_Fit_Trainer_SSBU.png/1600px-Wii_Fit_Trainer_SSBU.png",
-      "rank":53
+      "rank":47
     },
     {
       "name":"Shulk",
       "series":"Xenoblade Chronicles",
       "image":"https://ssb.wiki.gallery/images/thumb/0/0f/Shulk_SSBU.png/1600px-Shulk_SSBU.png",
-      "rank":54
+      "rank":57
     },
     {
       "name":"Duck Hunt",
       "series":"Duck Hunt",
       "image":"https://ssb.wiki.gallery/images/thumb/d/d8/Duck_Hunt_SSBU.png/1600px-Duck_Hunt_SSBU.png",
-      "rank":55
+      "rank":59
     },
     {
       "name":"Snake",
       "series":"Metal Gear",
       "image":"https://ssb.wiki.gallery/images/thumb/0/02/Snake_SSBU.png/1200px-Snake_SSBU.png",
-      "rank":56
+      "rank":31
     },
     {
       "name":"Sonic",
       "series":"Sonic the Hedgehog",
       "image":"https://ssb.wiki.gallery/images/thumb/b/ba/Sonic_SSBU.png/1600px-Sonic_SSBU.png",
-      "rank":57
+      "rank":38
     },
     {
       "name":"Mega Man",
       "series":"Mega Man",
       "image":"https://ssb.wiki.gallery/images/thumb/4/46/Mega_Man_SSBU.png/1600px-Mega_Man_SSBU.png",
-      "rank":58
+      "rank":46
     },
     {
       "name":"Pac-Man",
       "series":"Pac-Man",
       "image":"https://ssb.wiki.gallery/images/thumb/0/03/Pac-Man_SSBU.png/1600px-Pac-Man_SSBU.png",
-      "rank":59
+      "rank":55
     },
     {
       "name":"Ryu",
@@ -365,127 +365,127 @@
       "name":"Bayonetta",
       "series":"Bayonetta",
       "image":"https://ssb.wiki.gallery/images/thumb/7/7c/Bayonetta_SSBU.png/1600px-Bayonetta_SSBU.png",
-      "rank":62
+      "rank":63
     },
     {
       "name":"Daisy",
       "series":"Super Mario Bros.",
       "image":"https://ssb.wiki.gallery/images/thumb/2/21/Daisy_SSBU.png/1200px-Daisy_SSBU.png",
-      "rank":1
+      "rank":13.5
     },
     {
       "name":"Piranha Plant",
       "series":"Super Mario Bros.",
       "image":"https://ssb.wiki.gallery/images/thumb/f/f0/Piranha_Plant_SSBU.png/1200px-Piranha_Plant_SSBU.png",
-      "rank":1
+      "rank":70
     },
     {
       "name":"King K. Rool",
       "series":"Donkey Kong",
       "image":"https://ssb.wiki.gallery/images/thumb/b/b6/King_K._Rool_SSBU.png/1200px-King_K._Rool_SSBU.png",
-      "rank":1
+      "rank":67
     },
     {
       "name":"Ridley",
       "series":"Metroid",
       "image":"https://ssb.wiki.gallery/images/thumb/2/27/Ridley_SSBU.png/1200px-Ridley_SSBU.png",
-      "rank":1
+      "rank":65
     },
     {
       "name":"Dark Samus",
       "series":"Metroid",
       "image":"https://ssb.wiki.gallery/images/thumb/a/a6/Dark_Samus_SSBU.png/1200px-Dark_Samus_SSBU.png",
-      "rank":1
+      "rank":4.5
     },
     {
       "name":"Incineroar",
       "series":"Pokémon",
       "image":"https://ssb.wiki.gallery/images/thumb/c/c4/Incineroar_SSBU.png/1200px-Incineroar_SSBU.png",
-      "rank":1
+      "rank":69
     },
     {
       "name":"Chrom",
       "series":"Fire Emblem",
       "image":"https://ssb.wiki.gallery/images/thumb/5/57/Chrom_SSBU.png/1200px-Chrom_SSBU.png",
-      "rank":1
+      "rank":25.5
     },
     {
       "name":"Byleth",
       "series":"Fire Emblem",
       "image":"https://ssb.wiki.gallery/images/thumb/c/cc/Byleth-Alt1_SSBU.png/1200px-Byleth-Alt1_SSBU.png",
-      "rank":1
+      "rank":75
     },
     {
       "name":"Isabelle",
       "series":"Animal Crossing",
       "image":"https://ssb.wiki.gallery/images/thumb/2/2b/Isabelle_SSBU.png/1200px-Isabelle_SSBU.png",
-      "rank":1
+      "rank":68
     },
     {
       "name":"Pyra",
       "series":"Xenoblade Chronicles",
       "image":"https://ssb.wiki.gallery/images/e/ec/Pyra_SSBU.png",
-      "rank":1
+      "rank":79
     },
     {
       "name":"Mythra",
       "series":"Xenoblade Chronicles",
       "image":"https://ssb.wiki.gallery/images/5/58/Mythra_SSBU.png",
-      "rank":1
+      "rank":80
     },
     {
       "name":"Inkling",
       "series":"Splatoon",
       "image":"https://ssb.wiki.gallery/images/thumb/2/2e/Inkling_SSBU.png/1600px-Inkling_SSBU.png",
-      "rank":1
+      "rank":64
     },
     {
       "name":"Ken",
       "series":"Street Fighter",
       "image":"https://ssb.wiki.gallery/images/thumb/f/f6/Ken_SSBU.png/1200px-Ken_SSBU.png",
-      "rank":1
+      "rank":60.5
     },
     {
       "name":"Sephiroth",
       "series":"Final Fantasy",
       "image":"https://ssb.wiki.gallery/images/thumb/4/49/Sephiroth_SSBU.png/1200px-Sephiroth_SSBU.png",
-      "rank":1
+      "rank":78
     },
     {
       "name":"Simon",
       "series":"Castlevania",
       "image":"https://ssb.wiki.gallery/images/thumb/9/95/Simon_SSBU.png/1200px-Simon_SSBU.png",
-      "rank":1
+      "rank":66
     },
     {
       "name":"Richter",
       "series":"Castlevania",
       "image":"https://ssb.wiki.gallery/images/thumb/c/c2/Richter_SSBU.png/1200px-Richter_SSBU.png",
-      "rank":1
+      "rank":66.5
     },
     {
       "name":"Joker",
       "series":"Persona",
       "image":"https://ssb.wiki.gallery/images/thumb/5/5c/Joker_SSBU.png/1200px-Joker_SSBU.png",
-      "rank":1
+      "rank":71
     },
     {
       "name":"Hero",
       "series":"Dragon Quest",
       "image":"https://ssb.wiki.gallery/images/thumb/0/07/Hero_SSBU.png/1200px-Hero_SSBU.png",
-      "rank":1
+      "rank":72
     },
     {
       "name":"Banjo & Kazooie",
       "series":"Banjo-Kazooie",
       "image":"https://ssb.wiki.gallery/images/thumb/9/97/Banjo_%26_Kazooie_SSBU.png/1200px-Banjo_%26_Kazooie_SSBU.png",
-      "rank":1
+      "rank":73
     },
     {
       "name":"Terry",
       "series":"Fatal Fury",
       "image":"https://ssb.wiki.gallery/images/thumb/f/f5/Terry_SSBU.png/1200px-Terry_SSBU.png",
-      "rank":1
+      "rank":74
     }
   ],
   "moves":[
