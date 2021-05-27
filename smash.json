@@ -1,5 +1,5 @@
 {
-  "timestamp": ["1621917639228"],
+  "timestamp": ["1621917639229"],
   "fighters":[
     {
       "name":"Mario",
@@ -14,7 +14,7 @@
       "rank":2
     },
     {
-      "name":"Peach",
+      "name":"Peach Peach",
       "series":"Super Mario Bros.",
       "image":"https://ssb.wiki.gallery/images/thumb/7/74/Peach_SSBU.png/1200px-Peach_SSBU.png",
       "rank":3
