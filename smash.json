@@ -1,5 +1,5 @@
 {
-  "timestamp": ["1621917639226"],
+  "timestamp": ["1621917639228"],
   "fighters":[
     {
       "name":"Mario",
@@ -371,121 +371,121 @@
       "name":"Daisy",
       "series":"Super Mario Bros.",
       "image":"https://ssb.wiki.gallery/images/thumb/2/21/Daisy_SSBU.png/1200px-Daisy_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Piranha Plant",
       "series":"Super Mario Bros.",
       "image":"https://ssb.wiki.gallery/images/thumb/f/f0/Piranha_Plant_SSBU.png/1200px-Piranha_Plant_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"King K. Rool",
       "series":"Donkey Kong",
       "image":"https://ssb.wiki.gallery/images/thumb/b/b6/King_K._Rool_SSBU.png/1200px-King_K._Rool_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Ridley",
       "series":"Metroid",
       "image":"https://ssb.wiki.gallery/images/thumb/2/27/Ridley_SSBU.png/1200px-Ridley_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Dark Samus",
       "series":"Metroid",
       "image":"https://ssb.wiki.gallery/images/thumb/a/a6/Dark_Samus_SSBU.png/1200px-Dark_Samus_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Incineroar",
       "series":"Pokémon",
       "image":"https://ssb.wiki.gallery/images/thumb/c/c4/Incineroar_SSBU.png/1200px-Incineroar_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Chrom",
       "series":"Fire Emblem",
       "image":"https://ssb.wiki.gallery/images/thumb/5/57/Chrom_SSBU.png/1200px-Chrom_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Byleth",
       "series":"Fire Emblem",
       "image":"https://ssb.wiki.gallery/images/thumb/c/cc/Byleth-Alt1_SSBU.png/1200px-Byleth-Alt1_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Isabelle",
       "series":"Animal Crossing",
       "image":"https://ssb.wiki.gallery/images/thumb/2/2b/Isabelle_SSBU.png/1200px-Isabelle_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Pyra",
       "series":"Xenoblade Chronicles",
       "image":"https://ssb.wiki.gallery/images/e/ec/Pyra_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Mythra",
       "series":"Xenoblade Chronicles",
       "image":"https://ssb.wiki.gallery/images/5/58/Mythra_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Inkling",
       "series":"Splatoon",
       "image":"https://ssb.wiki.gallery/images/thumb/2/2e/Inkling_SSBU.png/1600px-Inkling_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Ken",
       "series":"Street Fighter",
       "image":"https://ssb.wiki.gallery/images/thumb/f/f6/Ken_SSBU.png/1200px-Ken_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Sephiroth",
       "series":"Final Fantasy",
       "image":"https://ssb.wiki.gallery/images/thumb/4/49/Sephiroth_SSBU.png/1200px-Sephiroth_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Simon",
       "series":"Castlevania",
       "image":"https://ssb.wiki.gallery/images/thumb/9/95/Simon_SSBU.png/1200px-Simon_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Richter",
       "series":"Castlevania",
       "image":"https://ssb.wiki.gallery/images/thumb/c/c2/Richter_SSBU.png/1200px-Richter_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Joker",
       "series":"Persona",
       "image":"https://ssb.wiki.gallery/images/thumb/5/5c/Joker_SSBU.png/1200px-Joker_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Hero",
       "series":"Dragon Quest",
       "image":"https://ssb.wiki.gallery/images/thumb/0/07/Hero_SSBU.png/1200px-Hero_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Banjo & Kazooie",
       "series":"Banjo-Kazooie",
       "image":"https://ssb.wiki.gallery/images/thumb/9/97/Banjo_%26_Kazooie_SSBU.png/1200px-Banjo_%26_Kazooie_SSBU.png",
-      "rank":
+      "rank":1
     },
     {
       "name":"Terry",
       "series":"Fatal Fury",
       "image":"https://ssb.wiki.gallery/images/thumb/f/f5/Terry_SSBU.png/1200px-Terry_SSBU.png",
-      "rank":
+      "rank":1
     }
   ],
   "moves":[
